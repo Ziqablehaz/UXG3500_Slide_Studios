@@ -3,3 +3,4 @@
 Environment -> Maya
 Character Design -> Photoshop
 Audio -> Music
+Others -> Other stuff
