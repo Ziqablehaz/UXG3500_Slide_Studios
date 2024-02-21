@@ -1,3 +1,5 @@
 {
-  "dependencies": {}
+  "dependencies": {
+    "com.unity.timeline": "1.4.8"
+  }
 }

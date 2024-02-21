@@ -1,0 +1,4 @@
+# Starting compiling Unity.Timeline.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.17f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-3327294d17639fb48bfcc4e8199528c5
+# Starting compiling Unity.Timeline.Editor.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.17f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-5d730dcbaf2c98d45bffea65dea59f26

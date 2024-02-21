@@ -1,29 +1,426 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/holia/OneDrive/Documents/GitHub/UXG3500_Slide_Studios/Unity/SlideStudios_Unlimited
+    m_FilePath: C:/Users/Owner/Documents/SIT/Y3 T2/UXG3500 - Integrated Digital Design/UXG3500_Slide_Studios/Unity/SlideStudios_Unlimited
       Bugs/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637227093680000000
-    m_Hash: 3680315187
+      ticks: 638441012620945043
+    m_Hash: 2225161988
   m_LockFileStatus:
-    m_FilePath: C:/Users/holia/OneDrive/Documents/GitHub/UXG3500_Slide_Studios/Unity/SlideStudios_Unlimited
+    m_FilePath: C:/Users/Owner/Documents/SIT/Y3 T2/UXG3500 - Integrated Digital Design/UXG3500_Slide_Studios/Unity/SlideStudios_Unlimited
       Bugs/Packages/packages-lock.json
-    m_PathExists: 0
+    m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 0
-    m_Hash: 0
+      ticks: 638441012621314047
+    m_Hash: 1059061447
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
-    m_ResolvedPackages: []
+    m_ResolvedPackages:
+    - packageId: com.unity.timeline@1.4.8
+      testable: 0
+      isDirectDependency: 1
+      version: 1.4.8
+      source: 1
+      resolvedPath: C:\Users\Owner\Documents\SIT\Y3 T2\UXG3500 - Integrated Digital
+        Design\UXG3500_Slide_Studios\Unity\SlideStudios_Unlimited Bugs\Library\PackageCache\com.unity.timeline@1.4.8
+      assetPath: Packages/com.unity.timeline
+      name: com.unity.timeline
+      displayName: Timeline
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: asset
+      description: Use Unity Timeline to create cinematic content, game-play sequences,
+        audio sequences, and complex particle effects.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.2.0
+        - 1.2.1
+        - 1.2.2
+        - 1.2.3
+        - 1.2.4
+        - 1.2.5
+        - 1.2.6
+        - 1.2.7
+        - 1.2.9
+        - 1.2.10
+        - 1.2.11
+        - 1.2.12
+        - 1.2.13
+        - 1.2.14
+        - 1.2.15
+        - 1.2.16
+        - 1.2.17
+        - 1.2.18
+        - 1.3.0-preview.2
+        - 1.3.0-preview.3
+        - 1.3.0-preview.5
+        - 1.3.0-preview.6
+        - 1.3.0-preview.7
+        - 1.3.0
+        - 1.3.1
+        - 1.3.2
+        - 1.3.3
+        - 1.3.4
+        - 1.3.5
+        - 1.3.6
+        - 1.3.7
+        - 1.4.0-preview.1
+        - 1.4.0-preview.2
+        - 1.4.0-preview.3
+        - 1.4.0-preview.5
+        - 1.4.0-preview.6
+        - 1.4.0-preview.7
+        - 1.4.0
+        - 1.4.1
+        - 1.4.2
+        - 1.4.3
+        - 1.4.4
+        - 1.4.5
+        - 1.4.6
+        - 1.4.7
+        - 1.4.8
+        - 1.5.0-pre.2
+        - 1.5.0-preview.1
+        - 1.5.0-preview.2
+        - 1.5.0-preview.3
+        - 1.5.0-preview.4
+        - 1.5.0-preview.5
+        - 1.5.1-pre.1
+        - 1.5.1-pre.2
+        - 1.5.1-pre.3
+        - 1.5.2
+        - 1.5.4
+        - 1.5.5
+        - 1.5.6
+        - 1.5.7
+        - 1.6.0-pre.1
+        - 1.6.0-pre.3
+        - 1.6.0-pre.4
+        - 1.6.0-pre.5
+        - 1.6.1
+        - 1.6.2
+        - 1.6.3
+        - 1.6.4
+        - 1.6.5
+        - 1.7.0-pre.1
+        - 1.7.0-pre.2
+        - 1.7.0
+        - 1.7.1
+        - 1.7.2
+        - 1.7.3
+        - 1.7.4
+        - 1.7.5
+        - 1.7.6
+        - 1.8.0
+        - 1.8.1
+        - 1.8.2
+        - 1.8.3
+        - 1.8.4
+        - 1.8.5
+        - 1.8.6
+        compatible:
+        - 1.4.8
+        - 1.5.0-pre.2
+        - 1.5.0-preview.1
+        - 1.5.0-preview.2
+        - 1.5.0-preview.3
+        - 1.5.0-preview.4
+        - 1.5.0-preview.5
+        - 1.5.1-pre.1
+        - 1.5.1-pre.2
+        - 1.5.1-pre.3
+        - 1.5.2
+        - 1.5.4
+        - 1.5.5
+        - 1.5.6
+        - 1.5.7
+        - 1.6.0-pre.1
+        - 1.6.0-pre.3
+        - 1.6.0-pre.4
+        - 1.6.0-pre.5
+        - 1.6.1
+        - 1.6.2
+        - 1.6.3
+        - 1.6.4
+        - 1.6.5
+        - 1.7.0-pre.1
+        - 1.7.0-pre.2
+        - 1.7.0
+        - 1.7.1
+        - 1.7.2
+        - 1.7.3
+        - 1.7.4
+        - 1.7.5
+        - 1.7.6
+        - 1.8.0
+        - 1.8.1
+        - 1.8.2
+        - 1.8.3
+        - 1.8.4
+        - 1.8.5
+        - 1.8.6
+        verified: 1.4.8
+      dependencies:
+      - name: com.unity.modules.director
+        version: 1.0.0
+      - name: com.unity.modules.animation
+        version: 1.0.0
+      - name: com.unity.modules.audio
+        version: 1.0.0
+      - name: com.unity.modules.particlesystem
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.modules.director
+        version: 1.0.0
+      - name: com.unity.modules.audio
+        version: 1.0.0
+      - name: com.unity.modules.animation
+        version: 1.0.0
+      - name: com.unity.modules.particlesystem
+        version: 1.0.0
+      keywords:
+      - unity
+      - animation
+      - editor
+      - timeline
+      - tools
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 0
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637557616100000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git
+        revision: 527e4364e28028f20f04fc51db671eb4bb910a26
+        path: 
+    - packageId: com.unity.modules.director@1.0.0
+      testable: 0
+      isDirectDependency: 0
+      version: 1.0.0
+      source: 2
+      resolvedPath: C:\Users\Owner\Documents\SIT\Y3 T2\UXG3500 - Integrated Digital
+        Design\UXG3500_Slide_Studios\Unity\SlideStudios_Unlimited Bugs\Library\PackageCache\com.unity.modules.director@1.0.0
+      assetPath: Packages/com.unity.modules.director
+      name: com.unity.modules.director
+      displayName: Director
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: module
+      description: 'The Director module implements the PlayableDirector class. Scripting
+        API: https://docs.unity3d.com/ScriptReference/UnityEngine.DirectorModule.html'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.0
+        compatible:
+        - 1.0.0
+        verified: 1.0.0
+      dependencies:
+      - name: com.unity.modules.audio
+        version: 1.0.0
+      - name: com.unity.modules.animation
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.modules.audio
+        version: 1.0.0
+      - name: com.unity.modules.animation
+        version: 1.0.0
+      keywords: []
+      registry:
+        id: 
+        name: 
+        url: 
+        scopes: []
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 0
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 0
+      repository:
+        type: 
+        url: 
+        revision: 
+        path: 
+    - packageId: com.unity.modules.animation@1.0.0
+      testable: 0
+      isDirectDependency: 0
+      version: 1.0.0
+      source: 2
+      resolvedPath: C:\Users\Owner\Documents\SIT\Y3 T2\UXG3500 - Integrated Digital
+        Design\UXG3500_Slide_Studios\Unity\SlideStudios_Unlimited Bugs\Library\PackageCache\com.unity.modules.animation@1.0.0
+      assetPath: Packages/com.unity.modules.animation
+      name: com.unity.modules.animation
+      displayName: Animation
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: module
+      description: 'The Animation module implements Unity''s animation system. Scripting
+        API: https://docs.unity3d.com/ScriptReference/UnityEngine.AnimationModule.html'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.0
+        compatible:
+        - 1.0.0
+        verified: 1.0.0
+      dependencies: []
+      resolvedDependencies: []
+      keywords: []
+      registry:
+        id: 
+        name: 
+        url: 
+        scopes: []
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 0
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 0
+      repository:
+        type: 
+        url: 
+        revision: 
+        path: 
+    - packageId: com.unity.modules.audio@1.0.0
+      testable: 0
+      isDirectDependency: 0
+      version: 1.0.0
+      source: 2
+      resolvedPath: C:\Users\Owner\Documents\SIT\Y3 T2\UXG3500 - Integrated Digital
+        Design\UXG3500_Slide_Studios\Unity\SlideStudios_Unlimited Bugs\Library\PackageCache\com.unity.modules.audio@1.0.0
+      assetPath: Packages/com.unity.modules.audio
+      name: com.unity.modules.audio
+      displayName: Audio
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: module
+      description: 'The Audio module implements Unity''s audio system. Scripting
+        API: https://docs.unity3d.com/ScriptReference/UnityEngine.AudioModule.html'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.0
+        compatible:
+        - 1.0.0
+        verified: 1.0.0
+      dependencies: []
+      resolvedDependencies: []
+      keywords: []
+      registry:
+        id: 
+        name: 
+        url: 
+        scopes: []
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 0
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 0
+      repository:
+        type: 
+        url: 
+        revision: 
+        path: 
+    - packageId: com.unity.modules.particlesystem@1.0.0
+      testable: 0
+      isDirectDependency: 0
+      version: 1.0.0
+      source: 2
+      resolvedPath: C:\Users\Owner\Documents\SIT\Y3 T2\UXG3500 - Integrated Digital
+        Design\UXG3500_Slide_Studios\Unity\SlideStudios_Unlimited Bugs\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+      assetPath: Packages/com.unity.modules.particlesystem
+      name: com.unity.modules.particlesystem
+      displayName: Particle System
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: module
+      description: 'The ParticleSystem module implements Unity''s Particle System.
+        Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.ParticleSystemModule.html'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.0
+        compatible:
+        - 1.0.0
+        verified: 1.0.0
+      dependencies: []
+      resolvedDependencies: []
+      keywords: []
+      registry:
+        id: 
+        name: 
+        url: 
+        scopes: []
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 0
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 0
+      repository:
+        type: 
+        url: 
+        revision: 
+        path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: C:/Users/holia/OneDrive/Documents/GitHub/UXG3500_Slide_Studios/Unity/SlideStudios_Unlimited
+m_ProjectPath: C:/Users/Owner/Documents/SIT/Y3 T2/UXG3500 - Integrated Digital Design/UXG3500_Slide_Studios/Unity/SlideStudios_Unlimited
   Bugs/Packages
 m_EditorVersion: 2020.3.17f1 (a4537701e4ab)
