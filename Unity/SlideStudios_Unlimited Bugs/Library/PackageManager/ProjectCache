@@ -1,22 +1,22 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/Owner/Documents/SIT/Y3 T2/UXG3500 - Integrated Digital Design/UXG3500_Slide_Studios/Unity/SlideStudios_Unlimited
+    m_FilePath: C:/Users/holia/OneDrive/Documents/GitHub/UXG3500_Slide_Studios/Unity/SlideStudios_Unlimited
       Bugs/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638441012620945043
-    m_Hash: 2225161988
+      ticks: 638442529763537899
+    m_Hash: 1115933874
   m_LockFileStatus:
-    m_FilePath: C:/Users/Owner/Documents/SIT/Y3 T2/UXG3500 - Integrated Digital Design/UXG3500_Slide_Studios/Unity/SlideStudios_Unlimited
+    m_FilePath: C:/Users/holia/OneDrive/Documents/GitHub/UXG3500_Slide_Studios/Unity/SlideStudios_Unlimited
       Bugs/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638441012621314047
-    m_Hash: 1059061447
+      ticks: 638442529763593568
+    m_Hash: 375642927
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -27,8 +27,8 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.8
       source: 1
-      resolvedPath: C:\Users\Owner\Documents\SIT\Y3 T2\UXG3500 - Integrated Digital
-        Design\UXG3500_Slide_Studios\Unity\SlideStudios_Unlimited Bugs\Library\PackageCache\com.unity.timeline@1.4.8
+      resolvedPath: C:\Users\holia\OneDrive\Documents\GitHub\UXG3500_Slide_Studios\Unity\SlideStudios_Unlimited
+        Bugs\Library\PackageCache\com.unity.timeline@1.4.8
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -215,13 +215,168 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git
         revision: 527e4364e28028f20f04fc51db671eb4bb910a26
         path: 
+    - packageId: com.unity.modules.terrain@1.0.0
+      testable: 0
+      isDirectDependency: 1
+      version: 1.0.0
+      source: 2
+      resolvedPath: C:\Users\holia\OneDrive\Documents\GitHub\UXG3500_Slide_Studios\Unity\SlideStudios_Unlimited
+        Bugs\Library\PackageCache\com.unity.modules.terrain@1.0.0
+      assetPath: Packages/com.unity.modules.terrain
+      name: com.unity.modules.terrain
+      displayName: Terrain
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: module
+      description: 'The Terrain module implements Unity''s Terrain rendering engine
+        available through the Terrain component. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.TerrainModule.html'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.0
+        compatible:
+        - 1.0.0
+        verified: 1.0.0
+      dependencies: []
+      resolvedDependencies: []
+      keywords: []
+      registry:
+        id: 
+        name: 
+        url: 
+        scopes: []
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 0
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 0
+      repository:
+        type: 
+        url: 
+        revision: 
+        path: 
+    - packageId: com.unity.modules.terrainphysics@1.0.0
+      testable: 0
+      isDirectDependency: 1
+      version: 1.0.0
+      source: 2
+      resolvedPath: C:\Users\holia\OneDrive\Documents\GitHub\UXG3500_Slide_Studios\Unity\SlideStudios_Unlimited
+        Bugs\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+      assetPath: Packages/com.unity.modules.terrainphysics
+      name: com.unity.modules.terrainphysics
+      displayName: Terrain Physics
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: module
+      description: 'The TerrainPhysics module connects the Terrain and Physics modules
+        by implementing the TerrainCollider component. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.TerrainPhysicsModule.html'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.0
+        compatible:
+        - 1.0.0
+        verified: 1.0.0
+      dependencies:
+      - name: com.unity.modules.physics
+        version: 1.0.0
+      - name: com.unity.modules.terrain
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.modules.physics
+        version: 1.0.0
+      - name: com.unity.modules.terrain
+        version: 1.0.0
+      keywords: []
+      registry:
+        id: 
+        name: 
+        url: 
+        scopes: []
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 0
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 0
+      repository:
+        type: 
+        url: 
+        revision: 
+        path: 
+    - packageId: com.unity.modules.physics@1.0.0
+      testable: 0
+      isDirectDependency: 0
+      version: 1.0.0
+      source: 2
+      resolvedPath: C:\Users\holia\OneDrive\Documents\GitHub\UXG3500_Slide_Studios\Unity\SlideStudios_Unlimited
+        Bugs\Library\PackageCache\com.unity.modules.physics@1.0.0
+      assetPath: Packages/com.unity.modules.physics
+      name: com.unity.modules.physics
+      displayName: Physics
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: module
+      description: 'The Physics module implements 3D physics in Unity. Scripting
+        API: https://docs.unity3d.com/ScriptReference/UnityEngine.PhysicsModule.html'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.0
+        compatible:
+        - 1.0.0
+        verified: 1.0.0
+      dependencies: []
+      resolvedDependencies: []
+      keywords: []
+      registry:
+        id: 
+        name: 
+        url: 
+        scopes: []
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 0
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 0
+      repository:
+        type: 
+        url: 
+        revision: 
+        path: 
     - packageId: com.unity.modules.director@1.0.0
       testable: 0
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Owner\Documents\SIT\Y3 T2\UXG3500 - Integrated Digital
-        Design\UXG3500_Slide_Studios\Unity\SlideStudios_Unlimited Bugs\Library\PackageCache\com.unity.modules.director@1.0.0
+      resolvedPath: C:\Users\holia\OneDrive\Documents\GitHub\UXG3500_Slide_Studios\Unity\SlideStudios_Unlimited
+        Bugs\Library\PackageCache\com.unity.modules.director@1.0.0
       assetPath: Packages/com.unity.modules.director
       name: com.unity.modules.director
       displayName: Director
@@ -277,8 +432,8 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Owner\Documents\SIT\Y3 T2\UXG3500 - Integrated Digital
-        Design\UXG3500_Slide_Studios\Unity\SlideStudios_Unlimited Bugs\Library\PackageCache\com.unity.modules.animation@1.0.0
+      resolvedPath: C:\Users\holia\OneDrive\Documents\GitHub\UXG3500_Slide_Studios\Unity\SlideStudios_Unlimited
+        Bugs\Library\PackageCache\com.unity.modules.animation@1.0.0
       assetPath: Packages/com.unity.modules.animation
       name: com.unity.modules.animation
       displayName: Animation
@@ -326,8 +481,8 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Owner\Documents\SIT\Y3 T2\UXG3500 - Integrated Digital
-        Design\UXG3500_Slide_Studios\Unity\SlideStudios_Unlimited Bugs\Library\PackageCache\com.unity.modules.audio@1.0.0
+      resolvedPath: C:\Users\holia\OneDrive\Documents\GitHub\UXG3500_Slide_Studios\Unity\SlideStudios_Unlimited
+        Bugs\Library\PackageCache\com.unity.modules.audio@1.0.0
       assetPath: Packages/com.unity.modules.audio
       name: com.unity.modules.audio
       displayName: Audio
@@ -375,8 +530,8 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Owner\Documents\SIT\Y3 T2\UXG3500 - Integrated Digital
-        Design\UXG3500_Slide_Studios\Unity\SlideStudios_Unlimited Bugs\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+      resolvedPath: C:\Users\holia\OneDrive\Documents\GitHub\UXG3500_Slide_Studios\Unity\SlideStudios_Unlimited
+        Bugs\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
       assetPath: Packages/com.unity.modules.particlesystem
       name: com.unity.modules.particlesystem
       displayName: Particle System
@@ -421,6 +576,6 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: C:/Users/Owner/Documents/SIT/Y3 T2/UXG3500 - Integrated Digital Design/UXG3500_Slide_Studios/Unity/SlideStudios_Unlimited
+m_ProjectPath: C:/Users/holia/OneDrive/Documents/GitHub/UXG3500_Slide_Studios/Unity/SlideStudios_Unlimited
   Bugs/Packages
 m_EditorVersion: 2020.3.17f1 (a4537701e4ab)
