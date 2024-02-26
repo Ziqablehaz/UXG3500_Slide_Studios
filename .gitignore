@@ -65,7 +65,7 @@ sysinfo.txt
 crashlytics-build.properties
 
 # Packed Addressables
-Unity/SlideStudios_Unlimited Bugs/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+SlideStudios_Unlimited Bugs/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
 # Temporary auto-generated Android Assets
 SlideStudios_Unlimited Bugs/[Aa]ssets/[Ss]treamingAssets/aa.meta
