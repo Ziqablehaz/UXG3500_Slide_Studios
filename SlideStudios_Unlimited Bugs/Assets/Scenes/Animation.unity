@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 3178850}
   - component: {fileID: 3178851}
   m_Layer: 0
-  m_Name: bee
+  m_Name: Bee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -219,80 +219,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   camera: {fileID: 45579313}
---- !u!1001 &34424034
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 947803911}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_RootOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 500.00003
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 500
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 500.00003
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -48.277405
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -4.5
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -41.58374
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.58426964
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.8115597
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -108.497
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_Name
-      value: animalleg
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
---- !u!4 &34424035 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-  m_PrefabInstance: {fileID: 34424034}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &39648627
 GameObject:
   m_ObjectHideFlags: 0
@@ -326,7 +252,7 @@ Transform:
   - {fileID: 407125415}
   - {fileID: 2072861334}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &41093151
 PrefabInstance:
@@ -501,7 +427,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
       propertyPath: m_Name
-      value: Bear_Shot29
+      value: Bear 29
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
       propertyPath: m_IsActive
@@ -579,7 +505,7 @@ GameObject:
   - component: {fileID: 45579312}
   - component: {fileID: 45579311}
   m_Layer: 0
-  m_Name: Cam10
+  m_Name: Cam 10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -681,7 +607,7 @@ GameObject:
   - component: {fileID: 50027052}
   - component: {fileID: 50027054}
   m_Layer: 0
-  m_Name: caterpillar
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -727,12 +653,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 59e73f7418d13944985ad2c4958e1299, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2c6ab4c4f0c2d2f4f848c312eb399c34, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -777,7 +703,7 @@ GameObject:
   - component: {fileID: 68074710}
   - component: {fileID: 68074711}
   m_Layer: 0
-  m_Name: ant
+  m_Name: Ant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -873,7 +799,7 @@ GameObject:
   - component: {fileID: 72827354}
   - component: {fileID: 72827355}
   m_Layer: 0
-  m_Name: caterpillar
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -933,12 +859,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 258e5405a3ddc4844984f36fecb84324, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e032beee04ea41a479a46f2ef0f8bff2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -968,7 +894,7 @@ GameObject:
   - component: {fileID: 79824864}
   - component: {fileID: 79824865}
   m_Layer: 0
-  m_Name: Bugs_Shot23
+  m_Name: Bugs 23
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -985,11 +911,11 @@ Transform:
   m_LocalPosition: {x: 632.6, y: 248.9, z: 280.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
+  - {fileID: 251288044}
   - {fileID: 136466344}
   - {fileID: 495891026}
   - {fileID: 725738131}
   - {fileID: 730483622}
-  - {fileID: 251288044}
   m_Father: {fileID: 1905317774}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0.000006085564, z: 0}
@@ -1024,7 +950,7 @@ GameObject:
   - component: {fileID: 84664050}
   - component: {fileID: 84664051}
   m_Layer: 0
-  m_Name: spider
+  m_Name: Spider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1120,7 +1046,7 @@ GameObject:
   - component: {fileID: 86555948}
   - component: {fileID: 86555949}
   m_Layer: 0
-  m_Name: bee
+  m_Name: Bee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1269,11 +1195,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
       propertyPath: m_Name
-      value: Leaf_Shot10
+      value: Leaf 10
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1507767883509144192, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
+      propertyPath: m_Name
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2231961243136057995, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
+      propertyPath: m_Name
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
@@ -1318,7 +1252,7 @@ GameObject:
   - component: {fileID: 111894397}
   - component: {fileID: 111894398}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1378,12 +1312,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 56d0c1d38dc91fd4789ade820d3ddd72, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b1864149e9b3fb7478333a85bb60d576, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.97}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -1414,7 +1348,7 @@ GameObject:
   - component: {fileID: 117822004}
   - component: {fileID: 117822005}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1432,7 +1366,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 879123945}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &117822004
 SpriteRenderer:
@@ -1474,12 +1408,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 00034d9c14e9dac4bbb68cc9ddd8a260, type: 3}
+  m_Sprite: {fileID: 21300000, guid: be7dbbc2668383943b01b72599a7306f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.97}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -1510,7 +1444,7 @@ GameObject:
   - component: {fileID: 124022250}
   - component: {fileID: 124022251}
   m_Layer: 0
-  m_Name: bee
+  m_Name: Bee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1528,7 +1462,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1072767240}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &124022250
 SpriteRenderer:
@@ -1594,45 +1528,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   camera: {fileID: 1765534523}
---- !u!1 &128543837
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 128543838}
-  m_Layer: 0
-  m_Name: Head
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &128543838
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 128543837}
-  m_LocalRotation: {x: 0, y: 0, z: -0.38268343, w: 0.92387956}
-  m_LocalPosition: {x: 0.0018, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 7276787773738307754}
-  - {fileID: 5894995935049354219}
-  - {fileID: 272351166382320375}
-  - {fileID: 5799635618017904150}
-  - {fileID: 7954866531694463514}
-  - {fileID: 7706017504693392809}
-  - {fileID: 4548547213095850929}
-  - {fileID: 6526602327597965892}
-  - {fileID: 7517781799991492920}
-  m_Father: {fileID: 3063710008844998796}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -45}
 --- !u!1 &134751748
 GameObject:
   m_ObjectHideFlags: 0
@@ -1645,7 +1540,7 @@ GameObject:
   - component: {fileID: 134751750}
   - component: {fileID: 134751751}
   m_Layer: 0
-  m_Name: caterpillar
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1705,12 +1600,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 2fd44851f3a92e74691dd6f7f692d2cf, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 34dc78b1503b99c449244c27f897704c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -1741,7 +1636,7 @@ GameObject:
   - component: {fileID: 136466345}
   - component: {fileID: 136466346}
   m_Layer: 0
-  m_Name: bee
+  m_Name: Bee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1759,7 +1654,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 79824864}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &136466345
 SpriteRenderer:
@@ -1837,7 +1732,7 @@ GameObject:
   - component: {fileID: 169924361}
   - component: {fileID: 169924362}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1897,12 +1792,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 8a1cf3621f21e84479d362126af10de3, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 35c02a0f419736f41b6d47b74b4ec7cd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.97}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -1933,7 +1828,7 @@ GameObject:
   - component: {fileID: 186258091}
   - component: {fileID: 186258092}
   m_Layer: 0
-  m_Name: bee
+  m_Name: Bee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1951,7 +1846,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1954137368}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &186258091
 SpriteRenderer:
@@ -2030,7 +1925,7 @@ GameObject:
   - component: {fileID: 194932365}
   - component: {fileID: 194932364}
   m_Layer: 0
-  m_Name: Cam29
+  m_Name: Cam 29
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2132,7 +2027,7 @@ GameObject:
   - component: {fileID: 215912621}
   - component: {fileID: 215912622}
   m_Layer: 0
-  m_Name: spider
+  m_Name: Spider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2150,7 +2045,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2050275077}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &215912621
 SpriteRenderer:
@@ -2228,7 +2123,7 @@ GameObject:
   - component: {fileID: 240029701}
   - component: {fileID: 240029702}
   m_Layer: 0
-  m_Name: spider
+  m_Name: Spider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2246,7 +2141,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1925353030}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &240029701
 SpriteRenderer:
@@ -2324,7 +2219,7 @@ GameObject:
   - component: {fileID: 243922284}
   - component: {fileID: 243922285}
   m_Layer: 0
-  m_Name: ant
+  m_Name: Ant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2420,7 +2315,7 @@ GameObject:
   - component: {fileID: 251288045}
   - component: {fileID: 251288046}
   m_Layer: 0
-  m_Name: ant
+  m_Name: Ant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2438,7 +2333,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 79824864}
-  m_RootOrder: 4
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &251288045
 SpriteRenderer:
@@ -2516,7 +2411,7 @@ GameObject:
   - component: {fileID: 257711498}
   - component: {fileID: 257711499}
   m_Layer: 0
-  m_Name: ant
+  m_Name: Ant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2534,7 +2429,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2133181796}
-  m_RootOrder: 4
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &257711498
 SpriteRenderer:
@@ -2611,7 +2506,7 @@ GameObject:
   - component: {fileID: 296000459}
   - component: {fileID: 296000458}
   m_Layer: 0
-  m_Name: Bugs_Shot4
+  m_Name: Bugs 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2667,7 +2562,7 @@ GameObject:
   - component: {fileID: 309692980}
   - component: {fileID: 309692981}
   m_Layer: 0
-  m_Name: ant
+  m_Name: Ant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2810,26 +2705,38 @@ Transform:
   - {fileID: 1725021192}
   - {fileID: 545997780}
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &318981835
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1158957056}
     m_Modifications:
+    - target: {fileID: 1391075618988603103, guid: 316dbc91f9394c44aba699cad4d71bcf, type: 3}
+      propertyPath: m_Name
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3015388264772381128, guid: 316dbc91f9394c44aba699cad4d71bcf, type: 3}
+      propertyPath: m_Name
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4599746074919598083, guid: 316dbc91f9394c44aba699cad4d71bcf, type: 3}
+      propertyPath: m_Name
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 7077647130337295617, guid: 316dbc91f9394c44aba699cad4d71bcf, type: 3}
       propertyPath: m_Name
-      value: Tree_Shot11
+      value: Tree 11
       objectReference: {fileID: 0}
     - target: {fileID: 7077647130337295617, guid: 316dbc91f9394c44aba699cad4d71bcf, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7598428251062626235, guid: 316dbc91f9394c44aba699cad4d71bcf, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7598428251062626235, guid: 316dbc91f9394c44aba699cad4d71bcf, type: 3}
       propertyPath: m_LocalScale.x
@@ -2845,15 +2752,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7598428251062626235, guid: 316dbc91f9394c44aba699cad4d71bcf, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 222.1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7598428251062626235, guid: 316dbc91f9394c44aba699cad4d71bcf, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 240.36142
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7598428251062626235, guid: 316dbc91f9394c44aba699cad4d71bcf, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 284.2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7598428251062626235, guid: 316dbc91f9394c44aba699cad4d71bcf, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2883,11 +2790,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7746186707629864117, guid: 316dbc91f9394c44aba699cad4d71bcf, type: 3}
+      propertyPath: m_Name
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 316dbc91f9394c44aba699cad4d71bcf, type: 3}
 --- !u!1 &318981836 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7077647130337295617, guid: 316dbc91f9394c44aba699cad4d71bcf, type: 3}
+  m_PrefabInstance: {fileID: 318981835}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &318981837 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7598428251062626235, guid: 316dbc91f9394c44aba699cad4d71bcf, type: 3}
   m_PrefabInstance: {fileID: 318981835}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &321928909
@@ -2903,7 +2819,7 @@ GameObject:
   - component: {fileID: 321928911}
   - component: {fileID: 321928913}
   m_Layer: 0
-  m_Name: Cam4
+  m_Name: Cam 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3005,7 +2921,7 @@ GameObject:
   - component: {fileID: 323096239}
   - component: {fileID: 323096240}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3065,12 +2981,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 0556d36921243004ca55f90c0448db04, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9315ce3b196d8fc409a2144589be81ba, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.97}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -3101,7 +3017,7 @@ GameObject:
   - component: {fileID: 340076751}
   - component: {fileID: 340076752}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3161,12 +3077,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 3f7624b664640f94faeed0bba51f4fdb, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3b8e72c7de8d4834bb9afdeb69b1177a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.97}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -3197,7 +3113,7 @@ GameObject:
   - component: {fileID: 344035061}
   - component: {fileID: 344035062}
   m_Layer: 0
-  m_Name: spider
+  m_Name: Spider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3281,80 +3197,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   camera: {fileID: 566632096}
---- !u!1001 &346027625
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 947803911}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_RootOrder
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 500
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 500
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 500
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -39.927216
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -7
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -32.983734
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.58426964
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.8115597
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -108.497
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_Name
-      value: animalleg (1)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
---- !u!4 &346027626 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-  m_PrefabInstance: {fileID: 346027625}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &365581980
 GameObject:
   m_ObjectHideFlags: 0
@@ -3367,7 +3209,7 @@ GameObject:
   - component: {fileID: 365581982}
   - component: {fileID: 365581983}
   m_Layer: 0
-  m_Name: caterpillar
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3385,7 +3227,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1954137368}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &365581982
 SpriteRenderer:
@@ -3427,12 +3269,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 1dde144a485c3664486663276530fbea, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8e1739a53b22399429b88f87546feca2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -3463,7 +3305,7 @@ GameObject:
   - component: {fileID: 372216387}
   - component: {fileID: 372216388}
   m_Layer: 0
-  m_Name: caterpillar
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3523,12 +3365,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 82f9dcb27e0053141987da896611ce6b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: cf396ad3872ecb24f9ec26d7391f0623, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -3559,7 +3401,7 @@ GameObject:
   - component: {fileID: 376869109}
   - component: {fileID: 376869110}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3619,12 +3461,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 53c63e4499a8eec49916753f32e69b67, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 80d338731757d034abfa6b839a8a81e3, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.97}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -3655,7 +3497,7 @@ GameObject:
   - component: {fileID: 387031811}
   - component: {fileID: 387031812}
   m_Layer: 0
-  m_Name: bee
+  m_Name: Bee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3752,7 +3594,7 @@ GameObject:
   - component: {fileID: 395580127}
   - component: {fileID: 395580126}
   m_Layer: 0
-  m_Name: Cam25
+  m_Name: Cam 25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3854,7 +3696,7 @@ GameObject:
   - component: {fileID: 398468220}
   - component: {fileID: 398468221}
   m_Layer: 0
-  m_Name: caterpillar
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3914,12 +3756,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 0d1d49b2f90db6a4fab75960bd7c2336, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 06638ddf37b922f4987f783f466e62d9, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -4111,7 +3953,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
       propertyPath: m_Name
-      value: Bear_Shot30
+      value: Bear 30
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
       propertyPath: m_IsActive
@@ -4267,7 +4109,7 @@ GameObject:
   - component: {fileID: 417483840}
   - component: {fileID: 417483839}
   m_Layer: 0
-  m_Name: Bugs_Shot5
+  m_Name: Bugs 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4412,11 +4254,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
       propertyPath: m_Name
-      value: Leaf_Shot19
+      value: Leaf 19
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1507767883509144192, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
+      propertyPath: m_Name
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2231961243136057995, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
+      propertyPath: m_Name
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
@@ -4514,11 +4364,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
       propertyPath: m_Name
-      value: Leaf_Shot13
+      value: Leaf 13
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1507767883509144192, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
+      propertyPath: m_Name
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2231961243136057995, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
+      propertyPath: m_Name
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
@@ -4563,7 +4421,7 @@ GameObject:
   - component: {fileID: 444720340}
   - component: {fileID: 444720341}
   m_Layer: 0
-  m_Name: caterpillar
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4581,7 +4439,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2050275077}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &444720340
 SpriteRenderer:
@@ -4623,12 +4481,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: a7b7919ea68cb2542a3d671c4c521d50, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ac2bc5e209fa6114aa2ccf40bb383fdd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 4.6, y: 3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -4712,11 +4570,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
       propertyPath: m_Name
-      value: Leaf_Shot8
+      value: Leaf 8
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1507767883509144192, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
+      propertyPath: m_Name
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2231961243136057995, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
+      propertyPath: m_Name
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
@@ -4742,7 +4608,7 @@ GameObject:
   - component: {fileID: 474860966}
   - component: {fileID: 474860967}
   m_Layer: 0
-  m_Name: ant
+  m_Name: Ant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4838,7 +4704,7 @@ GameObject:
   - component: {fileID: 476873516}
   - component: {fileID: 476873517}
   m_Layer: 0
-  m_Name: ant
+  m_Name: Ant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4856,7 +4722,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1817900858}
-  m_RootOrder: 4
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &476873516
 SpriteRenderer:
@@ -4934,7 +4800,7 @@ GameObject:
   - component: {fileID: 495495274}
   - component: {fileID: 495495275}
   m_Layer: 0
-  m_Name: bee
+  m_Name: Bee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4952,7 +4818,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 749996406}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &495495274
 SpriteRenderer:
@@ -5030,7 +4896,7 @@ GameObject:
   - component: {fileID: 495891027}
   - component: {fileID: 495891028}
   m_Layer: 0
-  m_Name: caterpillar
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5048,7 +4914,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 79824864}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &495891027
 SpriteRenderer:
@@ -5090,12 +4956,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: f9956f8caf9a72146948959f0d81e1b1, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 429eba6e0ee5e1641ac4b5140963c536, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3, y: 4.2}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -5126,7 +4992,7 @@ GameObject:
   - component: {fileID: 497202479}
   - component: {fileID: 497202480}
   m_Layer: 0
-  m_Name: ant
+  m_Name: Ant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5223,7 +5089,7 @@ GameObject:
   - component: {fileID: 506812245}
   - component: {fileID: 506812244}
   m_Layer: 0
-  m_Name: Cam30
+  m_Name: Cam 30
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5325,7 +5191,7 @@ GameObject:
   - component: {fileID: 507760086}
   - component: {fileID: 507760087}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5343,7 +5209,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1950630139}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &507760086
 SpriteRenderer:
@@ -5385,12 +5251,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 29d450a9622a6404e9a85f36b2c5eee5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 02b90e8fe0be36f4d8307a3d5d6dd475, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 4, y: 3.97}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -5421,7 +5287,7 @@ GameObject:
   - component: {fileID: 512377911}
   - component: {fileID: 512377912}
   m_Layer: 0
-  m_Name: bee
+  m_Name: Bee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5439,7 +5305,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2050275077}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &512377911
 SpriteRenderer:
@@ -5517,7 +5383,7 @@ GameObject:
   - component: {fileID: 539940489}
   - component: {fileID: 539940490}
   m_Layer: 0
-  m_Name: caterpillar
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5535,7 +5401,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1925353030}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &539940489
 SpriteRenderer:
@@ -5577,12 +5443,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: af884b75c1186514189ccf198d4896d4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f3df6afd366c4694798f9b9046a5f5ab, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3, y: 4.2}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -5632,7 +5498,7 @@ Transform:
   - {fileID: 629548410}
   - {fileID: 923728648}
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &545997779
 GameObject:
@@ -5647,7 +5513,7 @@ GameObject:
   - component: {fileID: 545997782}
   - component: {fileID: 545997781}
   m_Layer: 0
-  m_Name: Cam32
+  m_Name: Cam 32
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5749,7 +5615,7 @@ GameObject:
   - component: {fileID: 546661870}
   - component: {fileID: 546661871}
   m_Layer: 0
-  m_Name: caterpillar
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5767,7 +5633,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1154252129}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &546661870
 SpriteRenderer:
@@ -5809,12 +5675,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 039b51a4cc8c3a64a87236cb646bfa17, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 5449b39646527ad47801bb0e4b511d37, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -5844,7 +5710,7 @@ GameObject:
   - component: {fileID: 553067270}
   - component: {fileID: 553067271}
   m_Layer: 0
-  m_Name: Bugs_Shot24
+  m_Name: Bugs 24
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5861,11 +5727,11 @@ Transform:
   m_LocalPosition: {x: 632.8, y: 248.8, z: 283}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
+  - {fileID: 1553438769}
   - {fileID: 1652820168}
   - {fileID: 807818794}
   - {fileID: 1461592122}
   - {fileID: 1393642858}
-  - {fileID: 1553438769}
   m_Father: {fileID: 1905317774}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0.000006085564, z: 0}
@@ -5900,7 +5766,7 @@ GameObject:
   - component: {fileID: 554313909}
   - component: {fileID: 554313910}
   m_Layer: 0
-  m_Name: ant
+  m_Name: Ant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5918,7 +5784,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1097884521}
-  m_RootOrder: 4
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &554313909
 SpriteRenderer:
@@ -5984,80 +5850,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   camera: {fileID: 1073286335}
---- !u!1001 &561828970
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 947803911}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_RootOrder
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 350
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 350
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 350
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -9.8
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.7
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -12.419312
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7703632
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.63760537
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -79.227
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_Name
-      value: animalleg (2)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
---- !u!4 &561828971 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-  m_PrefabInstance: {fileID: 561828970}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &561830807
 GameObject:
   m_ObjectHideFlags: 0
@@ -6070,7 +5862,7 @@ GameObject:
   - component: {fileID: 561830809}
   - component: {fileID: 561830810}
   m_Layer: 0
-  m_Name: spider
+  m_Name: Spider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6166,7 +5958,7 @@ GameObject:
   - component: {fileID: 565404871}
   - component: {fileID: 565404872}
   m_Layer: 0
-  m_Name: bee
+  m_Name: Bee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6184,7 +5976,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1097884521}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &565404871
 SpriteRenderer:
@@ -6263,7 +6055,7 @@ GameObject:
   - component: {fileID: 566632095}
   - component: {fileID: 566632098}
   m_Layer: 0
-  m_Name: Cam2
+  m_Name: Cam 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6365,7 +6157,7 @@ GameObject:
   - component: {fileID: 567656812}
   - component: {fileID: 567656813}
   m_Layer: 0
-  m_Name: bee
+  m_Name: Bee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6383,7 +6175,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 756308230}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &567656812
 SpriteRenderer:
@@ -6461,7 +6253,7 @@ GameObject:
   - component: {fileID: 571082378}
   - component: {fileID: 571082379}
   m_Layer: 0
-  m_Name: caterpillar
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6479,7 +6271,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1950630139}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &571082378
 SpriteRenderer:
@@ -6521,12 +6313,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: de5013f6a9592e2409b0977aa69660fb, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 5708e384ee4bc4140bd09bb4de0c6a6b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -6646,11 +6438,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
       propertyPath: m_Name
-      value: Leaf_Shot16
+      value: Leaf 16
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1507767883509144192, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
+      propertyPath: m_Name
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2231961243136057995, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
+      propertyPath: m_Name
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
@@ -6723,7 +6523,7 @@ Transform:
   - {fileID: 2034624178}
   - {fileID: 441252035}
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 28.382, z: 0}
 --- !u!1001 &629548408
 PrefabInstance:
@@ -6790,7 +6590,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3338937823814691199, guid: a83139c77e645cf479eeb5fd57200dbb, type: 3}
       propertyPath: m_Name
-      value: Rock_Shot25
+      value: Rock 25
       objectReference: {fileID: 0}
     - target: {fileID: 3338937823814691199, guid: a83139c77e645cf479eeb5fd57200dbb, type: 3}
       propertyPath: m_IsActive
@@ -6839,7 +6639,7 @@ GameObject:
   - component: {fileID: 630756601}
   - component: {fileID: 630756602}
   m_Layer: 0
-  m_Name: caterpillar
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6857,7 +6657,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1072767240}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &630756601
 SpriteRenderer:
@@ -6899,12 +6699,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 1e0b11be7dd2e404f81325990ab24ed8, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d9f9ed2c9ff07254881bc5589382f459, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -6935,7 +6735,7 @@ GameObject:
   - component: {fileID: 632067942}
   - component: {fileID: 632067943}
   m_Layer: 0
-  m_Name: spider
+  m_Name: Spider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7032,7 +6832,7 @@ GameObject:
   - component: {fileID: 641162452}
   - component: {fileID: 641162451}
   m_Layer: 0
-  m_Name: Cam19
+  m_Name: Cam 19
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7134,7 +6934,7 @@ GameObject:
   - component: {fileID: 646064997}
   - component: {fileID: 646064998}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7152,7 +6952,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1817900858}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &646064997
 SpriteRenderer:
@@ -7194,12 +6994,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: cfcc0ba3122dce140aacaa5bc3fb9314, type: 3}
+  m_Sprite: {fileID: 21300000, guid: cae77e372966e9d43bf6143620a95dfe, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.97}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -7282,7 +7082,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &665729659
 GameObject:
@@ -7296,7 +7096,7 @@ GameObject:
   - component: {fileID: 665729661}
   - component: {fileID: 665729662}
   m_Layer: 0
-  m_Name: bee
+  m_Name: Bee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7391,7 +7191,7 @@ GameObject:
   - component: {fileID: 669056911}
   - component: {fileID: 669056912}
   m_Layer: 0
-  m_Name: Bugs_Shot8
+  m_Name: Bugs 8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7448,7 +7248,7 @@ GameObject:
   - component: {fileID: 684083026}
   - component: {fileID: 684083025}
   m_Layer: 0
-  m_Name: Cam21
+  m_Name: Cam 21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7549,7 +7349,7 @@ GameObject:
   - component: {fileID: 688352475}
   - component: {fileID: 688352476}
   m_Layer: 0
-  m_Name: Bugs_Shot7
+  m_Name: Bugs 7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7606,7 +7406,7 @@ GameObject:
   - component: {fileID: 697139625}
   - component: {fileID: 697139624}
   m_Layer: 0
-  m_Name: Cam23
+  m_Name: Cam 23
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7787,7 +7587,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &707753341
 GameObject:
@@ -7800,7 +7600,7 @@ GameObject:
   - component: {fileID: 707753342}
   - component: {fileID: 707753343}
   m_Layer: 0
-  m_Name: Bugs_Shot9
+  m_Name: Bugs 9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7856,7 +7656,7 @@ GameObject:
   - component: {fileID: 717277387}
   - component: {fileID: 717277388}
   m_Layer: 0
-  m_Name: bee
+  m_Name: Bee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7874,7 +7674,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1925353030}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &717277387
 SpriteRenderer:
@@ -7952,7 +7752,7 @@ GameObject:
   - component: {fileID: 725738132}
   - component: {fileID: 725738133}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7970,7 +7770,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 79824864}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &725738132
 SpriteRenderer:
@@ -8012,12 +7812,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 496e401bd93365341a1c5ecbf8bb2850, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 517c50f8841053547835f578313b5595, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 4.54, y: 3.54}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -8048,7 +7848,7 @@ GameObject:
   - component: {fileID: 729296520}
   - component: {fileID: 729296521}
   m_Layer: 0
-  m_Name: ant
+  m_Name: Ant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8144,7 +7944,7 @@ GameObject:
   - component: {fileID: 729503545}
   - component: {fileID: 729503546}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8162,7 +7962,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2133181796}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &729503545
 SpriteRenderer:
@@ -8204,12 +8004,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 9832510c1f846994eb995fa566b87054, type: 3}
+  m_Sprite: {fileID: 21300000, guid: fab5aebb560c81c40b4dea3f8305a12c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.97}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -8240,7 +8040,7 @@ GameObject:
   - component: {fileID: 730483623}
   - component: {fileID: 730483624}
   m_Layer: 0
-  m_Name: spider
+  m_Name: Spider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8258,7 +8058,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 79824864}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &730483623
 SpriteRenderer:
@@ -8335,7 +8135,7 @@ GameObject:
   - component: {fileID: 736687667}
   - component: {fileID: 736687668}
   m_Layer: 0
-  m_Name: Bugs_Shot9
+  m_Name: Bugs 13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8391,7 +8191,7 @@ GameObject:
   - component: {fileID: 746284567}
   - component: {fileID: 746284568}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8409,7 +8209,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 860038637}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &746284567
 SpriteRenderer:
@@ -8451,12 +8251,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: d4d19e4d4cb0aa046a00c751a8cb27a0, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 585e4dbe0fb4fb747bc26a94ff3a8283, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.97}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -8486,7 +8286,7 @@ GameObject:
   - component: {fileID: 749996406}
   - component: {fileID: 749996407}
   m_Layer: 0
-  m_Name: Bugs_Shot26
+  m_Name: Bugs 26
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8503,11 +8303,11 @@ Transform:
   m_LocalPosition: {x: 672.5, y: 235.4, z: 163.6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
+  - {fileID: 1296002249}
   - {fileID: 495495273}
   - {fileID: 1350304328}
   - {fileID: 1328128621}
   - {fileID: 1064076117}
-  - {fileID: 1296002249}
   m_Father: {fileID: 1905317774}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: -0.00000546073, y: -0.000006648132, z: 0.000006600352}
@@ -8543,7 +8343,7 @@ GameObject:
   - component: {fileID: 751815887}
   - component: {fileID: 751815886}
   m_Layer: 0
-  m_Name: Cam17
+  m_Name: Cam 17
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8644,7 +8444,7 @@ GameObject:
   - component: {fileID: 756308230}
   - component: {fileID: 756308231}
   m_Layer: 0
-  m_Name: Bugs_Shot9
+  m_Name: Bugs 19
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8661,11 +8461,11 @@ Transform:
   m_LocalPosition: {x: -0.00556, y: 0.0015, z: -0.00319}
   m_LocalScale: {x: 0.0006666668, y: 0.00066666666, z: 0.00066666683}
   m_Children:
+  - {fileID: 1814256947}
   - {fileID: 567656811}
   - {fileID: 927448763}
   - {fileID: 1898464143}
   - {fileID: 848372105}
-  - {fileID: 1814256947}
   m_Father: {fileID: 441252035}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 4.634, y: -71.208, z: 363.1}
@@ -8700,7 +8500,7 @@ GameObject:
   - component: {fileID: 768499184}
   - component: {fileID: 768499185}
   m_Layer: 0
-  m_Name: caterpillar
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8718,7 +8518,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 879123945}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &768499184
 SpriteRenderer:
@@ -8760,12 +8560,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: d022de1417184c94b993697964e6393e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: eb39130c2ad1e7e419bcfeca75f16102, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -8796,7 +8596,7 @@ GameObject:
   - component: {fileID: 785035451}
   - component: {fileID: 785035452}
   m_Layer: 0
-  m_Name: caterpillar
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8814,7 +8614,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1097884521}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &785035451
 SpriteRenderer:
@@ -8856,12 +8656,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: e626cb1f79e3a654d9a517676b825bfd, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ddaf05bcac383954193e8119f9086006, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 4.6, y: 3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -8892,7 +8692,7 @@ GameObject:
   - component: {fileID: 786749418}
   - component: {fileID: 786749419}
   m_Layer: 0
-  m_Name: ant
+  m_Name: Ant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8988,7 +8788,7 @@ GameObject:
   - component: {fileID: 787742323}
   - component: {fileID: 787742324}
   m_Layer: 0
-  m_Name: caterpillar
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9048,12 +8848,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: dc7a1ad3e1c6bc44d81ac62119d66c58, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e7e6905587595d04dafd39fb06fb8da9, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 5, y: 5.5}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -9085,7 +8885,7 @@ GameObject:
   - component: {fileID: 789840148}
   - component: {fileID: 789840147}
   m_Layer: 0
-  m_Name: Cam14
+  m_Name: Cam 14
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9186,7 +8986,7 @@ GameObject:
   - component: {fileID: 798857743}
   - component: {fileID: 798857744}
   m_Layer: 0
-  m_Name: Bugs_Shot9
+  m_Name: Bugs 14
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9241,7 +9041,7 @@ GameObject:
   - component: {fileID: 803723221}
   - component: {fileID: 803723222}
   m_Layer: 0
-  m_Name: Bugs_Shot9
+  m_Name: Bugs 12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9297,7 +9097,7 @@ GameObject:
   - component: {fileID: 807818795}
   - component: {fileID: 807818796}
   m_Layer: 0
-  m_Name: caterpillar
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9315,7 +9115,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 553067270}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &807818795
 SpriteRenderer:
@@ -9357,12 +9157,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 25f421b0db1079649a616ae701eafbbb, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d338c11b2bdeeac4c8fa7265b45a565d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 2.83, y: 4.68}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -9393,7 +9193,7 @@ GameObject:
   - component: {fileID: 840547709}
   - component: {fileID: 840547710}
   m_Layer: 0
-  m_Name: spider
+  m_Name: Spider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9489,7 +9289,7 @@ GameObject:
   - component: {fileID: 848372106}
   - component: {fileID: 848372107}
   m_Layer: 0
-  m_Name: spider
+  m_Name: Spider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9507,7 +9307,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 756308230}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &848372106
 SpriteRenderer:
@@ -9585,7 +9385,7 @@ GameObject:
   - component: {fileID: 857582153}
   - component: {fileID: 857582155}
   m_Layer: 0
-  m_Name: spider
+  m_Name: Spider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9680,7 +9480,7 @@ GameObject:
   - component: {fileID: 860038637}
   - component: {fileID: 860038638}
   m_Layer: 0
-  m_Name: Bugs_Shot31
+  m_Name: Bugs 31
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9697,11 +9497,11 @@ Transform:
   m_LocalPosition: {x: 848.07, y: 84.11, z: 261.4}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
+  - {fileID: 1697155753}
   - {fileID: 1045746994}
   - {fileID: 2054864644}
   - {fileID: 746284566}
   - {fileID: 1356233494}
-  - {fileID: 1697155753}
   m_Father: {fileID: 1905317774}
   m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -9736,7 +9536,7 @@ GameObject:
   - component: {fileID: 866769693}
   - component: {fileID: 866769694}
   m_Layer: 0
-  m_Name: bee
+  m_Name: Bee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9754,7 +9554,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1950630139}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &866769693
 SpriteRenderer:
@@ -9921,11 +9721,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
       propertyPath: m_Name
-      value: Leaf_Shot14
+      value: Leaf 14
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1507767883509144192, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
+      propertyPath: m_Name
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2231961243136057995, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
+      propertyPath: m_Name
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
@@ -9970,7 +9778,7 @@ GameObject:
   - component: {fileID: 878237473}
   - component: {fileID: 878237474}
   m_Layer: 0
-  m_Name: caterpillar
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10030,12 +9838,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 09089f517807d3340a2116c0e87c5244, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 09c46d3d0220c704c9c6128cbc65016e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -10065,7 +9873,7 @@ GameObject:
   - component: {fileID: 879123945}
   - component: {fileID: 879123946}
   m_Layer: 0
-  m_Name: Bugs_Shot9
+  m_Name: Bugs 16
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10082,11 +9890,11 @@ Transform:
   m_LocalPosition: {x: -0.00556, y: 0.0015, z: -0.00319}
   m_LocalScale: {x: 0.0006666668, y: 0.00066666666, z: 0.00066666683}
   m_Children:
+  - {fileID: 986923818}
   - {fileID: 1543254014}
   - {fileID: 768499183}
   - {fileID: 117822003}
   - {fileID: 1841141799}
-  - {fileID: 986923818}
   m_Father: {fileID: 599675396}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 4.634, y: -71.208, z: 363.1}
@@ -10121,7 +9929,7 @@ GameObject:
   - component: {fileID: 904767779}
   - component: {fileID: 904767780}
   m_Layer: 0
-  m_Name: spider
+  m_Name: Spider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10139,7 +9947,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1072767240}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &904767779
 SpriteRenderer:
@@ -10217,7 +10025,7 @@ GameObject:
   - component: {fileID: 908662993}
   - component: {fileID: 908662994}
   m_Layer: 0
-  m_Name: ant
+  m_Name: Ant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10235,7 +10043,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1154252129}
-  m_RootOrder: 4
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &908662993
 SpriteRenderer:
@@ -10313,7 +10121,7 @@ GameObject:
   - component: {fileID: 913190728}
   - component: {fileID: 913190730}
   m_Layer: 0
-  m_Name: bee
+  m_Name: Bee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10409,7 +10217,7 @@ GameObject:
   - component: {fileID: 916828909}
   - component: {fileID: 916828910}
   m_Layer: 0
-  m_Name: caterpillar
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10469,12 +10277,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 44ed86732d2ae524da176ae4ea83cb4e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 18467f26746b5b140989084d15300ef4, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -10558,7 +10366,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3338937823814691199, guid: a83139c77e645cf479eeb5fd57200dbb, type: 3}
       propertyPath: m_Name
-      value: Rock_Shot26
+      value: Rock 26
       objectReference: {fileID: 0}
     - target: {fileID: 3338937823814691199, guid: a83139c77e645cf479eeb5fd57200dbb, type: 3}
       propertyPath: m_IsActive
@@ -10607,7 +10415,7 @@ GameObject:
   - component: {fileID: 927448764}
   - component: {fileID: 927448765}
   m_Layer: 0
-  m_Name: caterpillar
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10625,7 +10433,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 756308230}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &927448764
 SpriteRenderer:
@@ -10667,12 +10475,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 117e8d9d4bb40fd479ce79eddbe326bd, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3f8ee636026185149bde0775d6cda764, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 4.5, y: 3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -10703,7 +10511,7 @@ GameObject:
   - component: {fileID: 929662498}
   - component: {fileID: 929662499}
   m_Layer: 0
-  m_Name: caterpillar
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10763,12 +10571,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: e18425a73254f1547ad5c0a1ff61bc1a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f3fdfb6af8c0113438a2468d9d78f9a7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -10787,40 +10595,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   camera: {fileID: 1243691167}
---- !u!1 &947803910
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 947803911}
-  m_Layer: 0
-  m_Name: AnimalLeg_Shot13
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!4 &947803911
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 947803910}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 319.92722, y: 241.4, z: 429.58374}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 34424035}
-  - {fileID: 346027626}
-  - {fileID: 561828971}
-  - {fileID: 1119790941}
-  m_Father: {fileID: 0}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &953420651
 GameObject:
   m_ObjectHideFlags: 0
@@ -10834,7 +10608,7 @@ GameObject:
   - component: {fileID: 953420654}
   - component: {fileID: 953420653}
   m_Layer: 0
-  m_Name: Cam7
+  m_Name: Cam 7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10937,7 +10711,7 @@ GameObject:
   - component: {fileID: 963194226}
   - component: {fileID: 963194229}
   m_Layer: 0
-  m_Name: Cam1
+  m_Name: Cam 1
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11039,7 +10813,7 @@ GameObject:
   - component: {fileID: 986923819}
   - component: {fileID: 986923820}
   m_Layer: 0
-  m_Name: ant
+  m_Name: Ant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11057,7 +10831,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 879123945}
-  m_RootOrder: 4
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &986923819
 SpriteRenderer:
@@ -11134,7 +10908,7 @@ GameObject:
   - component: {fileID: 1004217890}
   - component: {fileID: 1004217891}
   m_Layer: 0
-  m_Name: Bugs_Shot9
+  m_Name: Bugs 10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11191,7 +10965,7 @@ GameObject:
   - component: {fileID: 1011030166}
   - component: {fileID: 1011030165}
   m_Layer: 0
-  m_Name: Cam20
+  m_Name: Cam 20
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11490,7 +11264,7 @@ PlayableDirector:
   - key: {fileID: -7162496444301536018, guid: cc2a3f9f79806f3449f375a3f87ea8ad, type: 2}
     value: {fileID: 1332502024}
   - key: {fileID: 2465421701115523983, guid: cc2a3f9f79806f3449f375a3f87ea8ad, type: 2}
-    value: {fileID: 947803910}
+    value: {fileID: 0}
   - key: {fileID: -839555639123055093, guid: cc2a3f9f79806f3449f375a3f87ea8ad, type: 2}
     value: {fileID: 877557141}
   - key: {fileID: 1367853810740271117, guid: cc2a3f9f79806f3449f375a3f87ea8ad, type: 2}
@@ -11661,7 +11435,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!82 &1021135770
 AudioSource:
@@ -11771,7 +11545,7 @@ GameObject:
   - component: {fileID: 1045746995}
   - component: {fileID: 1045746996}
   m_Layer: 0
-  m_Name: bee
+  m_Name: Bee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11789,7 +11563,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 860038637}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1045746995
 SpriteRenderer:
@@ -11867,7 +11641,7 @@ GameObject:
   - component: {fileID: 1064076118}
   - component: {fileID: 1064076119}
   m_Layer: 0
-  m_Name: spider
+  m_Name: Spider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11885,7 +11659,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 749996406}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1064076118
 SpriteRenderer:
@@ -11962,7 +11736,7 @@ GameObject:
   - component: {fileID: 1072767240}
   - component: {fileID: 1072767241}
   m_Layer: 0
-  m_Name: Bugs_Shot28
+  m_Name: Bugs 28
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11979,11 +11753,11 @@ Transform:
   m_LocalPosition: {x: 811.4, y: 68.3, z: 259.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
+  - {fileID: 1150390939}
   - {fileID: 124022249}
   - {fileID: 630756600}
   - {fileID: 1710567966}
   - {fileID: 904767778}
-  - {fileID: 1150390939}
   m_Father: {fileID: 1905317774}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: -0.000005251858, y: -0.000006918944, z: 0.000006345092}
@@ -12019,7 +11793,7 @@ GameObject:
   - component: {fileID: 1073286334}
   - component: {fileID: 1073286333}
   m_Layer: 0
-  m_Name: Cam27
+  m_Name: Cam 27
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12121,7 +11895,7 @@ GameObject:
   - component: {fileID: 1095926873}
   - component: {fileID: 1095926874}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12139,7 +11913,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1954137368}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1095926873
 SpriteRenderer:
@@ -12181,12 +11955,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: a9dccb42ecf498c4c860f776969f0d95, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 72e9d226793edbc41ab4e22bd1da9bdb, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 4, y: 3.97}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -12216,7 +11990,7 @@ GameObject:
   - component: {fileID: 1097884521}
   - component: {fileID: 1097884522}
   m_Layer: 0
-  m_Name: Bugs_Shot27
+  m_Name: Bugs 27
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12233,11 +12007,11 @@ Transform:
   m_LocalPosition: {x: 811.4, y: 68.3, z: 259.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
+  - {fileID: 554313908}
   - {fileID: 565404870}
   - {fileID: 785035450}
   - {fileID: 1105372382}
   - {fileID: 1707650561}
-  - {fileID: 554313908}
   m_Father: {fileID: 1905317774}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: -0.000005251858, y: -0.000006918944, z: 0.000006345092}
@@ -12272,7 +12046,7 @@ GameObject:
   - component: {fileID: 1105372383}
   - component: {fileID: 1105372384}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12290,7 +12064,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1097884521}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1105372383
 SpriteRenderer:
@@ -12332,12 +12106,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: f50fe65523d479f42aaf0168cbd1c186, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e153699e9220bf94cb122dab6d2532a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.97}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -12369,7 +12143,7 @@ GameObject:
   - component: {fileID: 1113560983}
   - component: {fileID: 1113560982}
   m_Layer: 0
-  m_Name: Water (1)
+  m_Name: Water 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12452,80 +12226,6 @@ Transform:
   m_Father: {fileID: 1757658039}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 3.488, y: -4.371, z: -49.149}
---- !u!1001 &1119790940
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 947803911}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_RootOrder
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 350
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 350
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 350
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -1.5
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -9
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7703632
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.63760537
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -79.227
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-      propertyPath: m_Name
-      value: animalleg (3)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
---- !u!4 &1119790941 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 0cbc822b5a47fd346b9647ea591af314, type: 3}
-  m_PrefabInstance: {fileID: 1119790940}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1150390938
 GameObject:
   m_ObjectHideFlags: 0
@@ -12538,7 +12238,7 @@ GameObject:
   - component: {fileID: 1150390940}
   - component: {fileID: 1150390941}
   m_Layer: 0
-  m_Name: ant
+  m_Name: Ant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12556,7 +12256,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1072767240}
-  m_RootOrder: 4
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1150390940
 SpriteRenderer:
@@ -12633,7 +12333,7 @@ GameObject:
   - component: {fileID: 1154252129}
   - component: {fileID: 1154252130}
   m_Layer: 0
-  m_Name: Bugs_Shot9
+  m_Name: Bugs 18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12650,11 +12350,11 @@ Transform:
   m_LocalPosition: {x: -0.00556, y: 0.0015, z: -0.00319}
   m_LocalScale: {x: 0.0006666668, y: 0.00066666666, z: 0.00066666683}
   m_Children:
+  - {fileID: 908662992}
   - {fileID: 1387520939}
   - {fileID: 546661869}
   - {fileID: 1176777503}
   - {fileID: 1363227143}
-  - {fileID: 908662992}
   m_Father: {fileID: 2034624178}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 4.634, y: -71.208, z: 363.1}
@@ -12689,7 +12389,7 @@ GameObject:
   - component: {fileID: 1156654666}
   - component: {fileID: 1156654667}
   m_Layer: 0
-  m_Name: bee
+  m_Name: Bee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12773,6 +12473,37 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   camera: {fileID: 566632096}
+--- !u!1 &1158957055
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1158957056}
+  m_Layer: 0
+  m_Name: Tree
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1158957056
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1158957055}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 222.1, y: 240.36142, z: 284.2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 318981837}
+  m_Father: {fileID: 0}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1176777502
 GameObject:
   m_ObjectHideFlags: 0
@@ -12785,7 +12516,7 @@ GameObject:
   - component: {fileID: 1176777504}
   - component: {fileID: 1176777505}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12803,7 +12534,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1154252129}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1176777504
 SpriteRenderer:
@@ -12845,12 +12576,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: af728d544df8ee64585561ccaeb75f0c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1410a17656541554fbae7b15cce8077f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.97}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -12880,7 +12611,7 @@ GameObject:
   - component: {fileID: 1189849360}
   - component: {fileID: 1189849361}
   m_Layer: 0
-  m_Name: Bugs_Shot20
+  m_Name: Bugs 20
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12986,11 +12717,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
       propertyPath: m_Name
-      value: Leaf_Shot9
+      value: Leaf 9
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1507767883509144192, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
+      propertyPath: m_Name
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2231961243136057995, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
+      propertyPath: m_Name
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
@@ -13036,7 +12775,7 @@ GameObject:
   - component: {fileID: 1239235324}
   - component: {fileID: 1239235323}
   m_Layer: 0
-  m_Name: Cam24
+  m_Name: Cam 24
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13139,7 +12878,7 @@ GameObject:
   - component: {fileID: 1243691166}
   - component: {fileID: 1243691165}
   m_Layer: 0
-  m_Name: Cam12
+  m_Name: Cam 12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13241,7 +12980,7 @@ GameObject:
   - component: {fileID: 1249198683}
   - component: {fileID: 1249198684}
   m_Layer: 0
-  m_Name: bee
+  m_Name: Bee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13337,7 +13076,7 @@ GameObject:
   - component: {fileID: 1259020559}
   - component: {fileID: 1259020560}
   m_Layer: 0
-  m_Name: caterpillar
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13355,7 +13094,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1817900858}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1259020559
 SpriteRenderer:
@@ -13397,12 +13136,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 42aae534f021d0545b299ef564646b38, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2d261e9f49948624fbcd1c725ebd5fb5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -13433,7 +13172,7 @@ GameObject:
   - component: {fileID: 1264188104}
   - component: {fileID: 1264188105}
   m_Layer: 0
-  m_Name: bee
+  m_Name: Bee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13524,6 +13263,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 39648628}
     m_Modifications:
+    - target: {fileID: -8938109308071154228, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
+      propertyPath: m_Name
+      value: lefteyebrow
+      objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -13580,13 +13323,65 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
+    - target: {fileID: -5039650777393326858, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
+      propertyPath: m_Name
+      value: righteye
+      objectReference: {fileID: 0}
+    - target: {fileID: -4819223349682164798, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
+      propertyPath: m_Name
+      value: body
+      objectReference: {fileID: 0}
+    - target: {fileID: -4768681247727678317, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
+      propertyPath: m_Name
+      value: rightleg
+      objectReference: {fileID: 0}
+    - target: {fileID: -2511240423080479738, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
+      propertyPath: m_Name
+      value: head
+      objectReference: {fileID: 0}
+    - target: {fileID: -2304092119053990573, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
+      propertyPath: m_Name
+      value: lefteye
+      objectReference: {fileID: 0}
+    - target: {fileID: -1786071775093352528, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
+      propertyPath: m_Name
+      value: rightarm
+      objectReference: {fileID: 0}
+    - target: {fileID: 515030187944616717, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
+      propertyPath: m_Name
+      value: righteyebrow
+      objectReference: {fileID: 0}
+    - target: {fileID: 808361953314659511, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
+      propertyPath: m_Name
+      value: rightear
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
       propertyPath: m_Name
-      value: Bear_Shot27
+      value: Bear 27
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1676336931081741577, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
+      propertyPath: m_Name
+      value: leftfarm
+      objectReference: {fileID: 0}
+    - target: {fileID: 4999057214722495542, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
+      propertyPath: m_Name
+      value: leftear
+      objectReference: {fileID: 0}
+    - target: {fileID: 5134071759825955463, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
+      propertyPath: m_Name
+      value: nose
+      objectReference: {fileID: 0}
+    - target: {fileID: 5176680074215007775, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
+      propertyPath: m_Name
+      value: snout
+      objectReference: {fileID: 0}
+    - target: {fileID: 8519013671625181262, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
+      propertyPath: m_Name
+      value: leftleg
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
@@ -13701,11 +13496,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
       propertyPath: m_Name
-      value: Leaf_Shot17
+      value: Leaf 17
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1507767883509144192, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
+      propertyPath: m_Name
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2231961243136057995, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
+      propertyPath: m_Name
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
@@ -13750,7 +13553,7 @@ GameObject:
   - component: {fileID: 1289320439}
   - component: {fileID: 1289320440}
   m_Layer: 0
-  m_Name: spider
+  m_Name: Spider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13846,7 +13649,7 @@ GameObject:
   - component: {fileID: 1296002250}
   - component: {fileID: 1296002251}
   m_Layer: 0
-  m_Name: ant
+  m_Name: Ant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13864,7 +13667,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 749996406}
-  m_RootOrder: 4
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1296002250
 SpriteRenderer:
@@ -13943,7 +13746,7 @@ GameObject:
   - component: {fileID: 1300831043}
   - component: {fileID: 1300831042}
   m_Layer: 0
-  m_Name: Cam6
+  m_Name: Cam 6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14045,7 +13848,7 @@ GameObject:
   - component: {fileID: 1302108166}
   - component: {fileID: 1302108167}
   m_Layer: 0
-  m_Name: caterpillar
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14105,12 +13908,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c1bec8e52ef25804e9fc6fea2f755251, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2900abaa03f067f4d96b67a63ad7da60, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -14141,7 +13944,7 @@ GameObject:
   - component: {fileID: 1309142355}
   - component: {fileID: 1309142356}
   m_Layer: 0
-  m_Name: ant
+  m_Name: Ant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14159,7 +13962,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1950630139}
-  m_RootOrder: 4
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1309142355
 SpriteRenderer:
@@ -14237,7 +14040,7 @@ GameObject:
   - component: {fileID: 1325390673}
   - component: {fileID: 1325390674}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14297,12 +14100,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c37185ca389b6e445bc31b878445ca41, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b75fbd1949c5ebd4c970de1afbd32f53, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.97}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -14333,7 +14136,7 @@ GameObject:
   - component: {fileID: 1328128622}
   - component: {fileID: 1328128623}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14351,7 +14154,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 749996406}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1328128622
 SpriteRenderer:
@@ -14393,12 +14196,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 459b75997ac73024f87291d473f8e8e4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: fac5bdb306c0d1947aeba27ef3f5ccf6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.97}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -14430,7 +14233,7 @@ GameObject:
   - component: {fileID: 1332502026}
   - component: {fileID: 1332502025}
   m_Layer: 0
-  m_Name: Cam13
+  m_Name: Cam 13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14617,7 +14420,7 @@ RectTransform:
   - {fileID: 1729368837}
   - {fileID: 1560920939}
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -14637,7 +14440,7 @@ GameObject:
   - component: {fileID: 1344239480}
   - component: {fileID: 1344239479}
   m_Layer: 0
-  m_Name: Water
+  m_Name: Water 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14732,7 +14535,7 @@ GameObject:
   - component: {fileID: 1345147230}
   - component: {fileID: 1345147231}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14792,12 +14595,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: e500650999d052a49ab379cecec1bc74, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 6e210e3d962bad84b87a1094acee55cc, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.97}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -14828,7 +14631,7 @@ GameObject:
   - component: {fileID: 1350304329}
   - component: {fileID: 1350304330}
   m_Layer: 0
-  m_Name: caterpillar
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14846,7 +14649,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 749996406}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1350304329
 SpriteRenderer:
@@ -14888,12 +14691,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: a7e128008d0b83a4eb1f8dda6658fe51, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 549fa19547cba91448e91c1ef571bafa, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3, y: 4.2}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -14924,7 +14727,7 @@ GameObject:
   - component: {fileID: 1356233495}
   - component: {fileID: 1356233496}
   m_Layer: 0
-  m_Name: spider
+  m_Name: Spider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14942,7 +14745,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 860038637}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1356233495
 SpriteRenderer:
@@ -15020,7 +14823,7 @@ GameObject:
   - component: {fileID: 1363227144}
   - component: {fileID: 1363227145}
   m_Layer: 0
-  m_Name: spider
+  m_Name: Spider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15038,7 +14841,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1154252129}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1363227144
 SpriteRenderer:
@@ -15169,11 +14972,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
       propertyPath: m_Name
-      value: Leaf_Shot12
+      value: Leaf 12
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1507767883509144192, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
+      propertyPath: m_Name
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2231961243136057995, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
+      propertyPath: m_Name
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
@@ -15218,7 +15029,7 @@ GameObject:
   - component: {fileID: 1387520940}
   - component: {fileID: 1387520941}
   m_Layer: 0
-  m_Name: bee
+  m_Name: Bee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15236,7 +15047,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1154252129}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1387520940
 SpriteRenderer:
@@ -15314,7 +15125,7 @@ GameObject:
   - component: {fileID: 1393642859}
   - component: {fileID: 1393642860}
   m_Layer: 0
-  m_Name: spider
+  m_Name: Spider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15332,7 +15143,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 553067270}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1393642859
 SpriteRenderer:
@@ -15409,7 +15220,7 @@ GameObject:
   - component: {fileID: 1398663031}
   - component: {fileID: 1398663032}
   m_Layer: 0
-  m_Name: Bugs_Shot6
+  m_Name: Bugs 6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15536,7 +15347,7 @@ GameObject:
   - component: {fileID: 1441061071}
   - component: {fileID: 1441061072}
   m_Layer: 0
-  m_Name: spider
+  m_Name: Spider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15632,7 +15443,7 @@ GameObject:
   - component: {fileID: 1448698054}
   - component: {fileID: 1448698055}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15650,7 +15461,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2050275077}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1448698054
 SpriteRenderer:
@@ -15692,12 +15503,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: da6d898de7d60ec4c8d533fc97d9ef2f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 37e985d3508d134459b92936269993ca, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.26, y: 4.68}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -15781,11 +15592,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
       propertyPath: m_Name
-      value: Leaf_Shot5-7
+      value: Leaf 5-7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1507767883509144192, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
+      propertyPath: m_Name
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2231961243136057995, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
+      propertyPath: m_Name
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
@@ -15811,7 +15630,7 @@ GameObject:
   - component: {fileID: 1461592123}
   - component: {fileID: 1461592124}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15829,7 +15648,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 553067270}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1461592123
 SpriteRenderer:
@@ -15871,12 +15690,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 9587572b3618e114cb40d7efda810b54, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 297ef99887aaee84baea6b4c717e9972, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.97}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -15908,7 +15727,7 @@ GameObject:
   - component: {fileID: 1484599053}
   - component: {fileID: 1484599052}
   m_Layer: 0
-  m_Name: Cam11
+  m_Name: Cam 11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16010,7 +15829,7 @@ GameObject:
   - component: {fileID: 1507801486}
   - component: {fileID: 1507801487}
   m_Layer: 0
-  m_Name: ant
+  m_Name: Ant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16106,7 +15925,7 @@ GameObject:
   - component: {fileID: 1510067720}
   - component: {fileID: 1510067721}
   m_Layer: 0
-  m_Name: spider
+  m_Name: Spider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16201,7 +16020,7 @@ GameObject:
   - component: {fileID: 1513796260}
   - component: {fileID: 1513796259}
   m_Layer: 0
-  m_Name: Bugs_Shot3
+  m_Name: Bugs 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16257,7 +16076,7 @@ GameObject:
   - component: {fileID: 1520220524}
   - component: {fileID: 1520220525}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16317,12 +16136,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 30e8af8480dd3d147ba57ccc7f0a7276, type: 3}
+  m_Sprite: {fileID: 21300000, guid: cb7c88e5201db844f9d5a6cc6c85698a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 4.25, y: 4.96}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -16353,7 +16172,7 @@ GameObject:
   - component: {fileID: 1543254015}
   - component: {fileID: 1543254016}
   m_Layer: 0
-  m_Name: bee
+  m_Name: Bee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16371,7 +16190,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 879123945}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1543254015
 SpriteRenderer:
@@ -16450,7 +16269,7 @@ GameObject:
   - component: {fileID: 1547771848}
   - component: {fileID: 1547771847}
   m_Layer: 0
-  m_Name: Cam5
+  m_Name: Cam 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16552,7 +16371,7 @@ GameObject:
   - component: {fileID: 1552382901}
   - component: {fileID: 1552382902}
   m_Layer: 0
-  m_Name: ant
+  m_Name: Ant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16570,7 +16389,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1925353030}
-  m_RootOrder: 4
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1552382901
 SpriteRenderer:
@@ -16648,7 +16467,7 @@ GameObject:
   - component: {fileID: 1553438770}
   - component: {fileID: 1553438771}
   m_Layer: 0
-  m_Name: ant
+  m_Name: Ant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16666,7 +16485,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 553067270}
-  m_RootOrder: 4
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1553438770
 SpriteRenderer:
@@ -16745,7 +16564,7 @@ GameObject:
   - component: {fileID: 1560920941}
   - component: {fileID: 1560920940}
   m_Layer: 5
-  m_Name: EndingFadeout
+  m_Name: Ending Fade-out
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16839,7 +16658,7 @@ GameObject:
   - component: {fileID: 1580506822}
   - component: {fileID: 1580506823}
   m_Layer: 0
-  m_Name: caterpillar
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16899,12 +16718,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 0f2f7b2ba68cedd4d8110d12307f4888, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e3dea17922486484693530b830c6d693, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -16935,7 +16754,7 @@ GameObject:
   - component: {fileID: 1585097885}
   - component: {fileID: 1585097886}
   m_Layer: 0
-  m_Name: bee
+  m_Name: Bee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16953,7 +16772,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1817900858}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1585097885
 SpriteRenderer:
@@ -17031,7 +16850,7 @@ GameObject:
   - component: {fileID: 1585807368}
   - component: {fileID: 1585807367}
   m_Layer: 0
-  m_Name: Cam3
+  m_Name: Cam 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17114,7 +16933,7 @@ GameObject:
   - component: {fileID: 1604125938}
   - component: {fileID: 1604125939}
   m_Layer: 0
-  m_Name: spider
+  m_Name: Spider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17210,7 +17029,7 @@ GameObject:
   - component: {fileID: 1619846795}
   - component: {fileID: 1619846796}
   m_Layer: 0
-  m_Name: spider
+  m_Name: Spider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17228,7 +17047,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1954137368}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1619846795
 SpriteRenderer:
@@ -17306,7 +17125,7 @@ GameObject:
   - component: {fileID: 1645256591}
   - component: {fileID: 1645256592}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17366,12 +17185,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: d3806fbb8317a6d43b61fa01fd016b30, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8bfc5ea6a3d2982499c09dd4cae9dfd0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.97}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -17402,7 +17221,7 @@ GameObject:
   - component: {fileID: 1652820169}
   - component: {fileID: 1652820170}
   m_Layer: 0
-  m_Name: bee
+  m_Name: Bee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17420,7 +17239,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 553067270}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1652820169
 SpriteRenderer:
@@ -17498,7 +17317,7 @@ GameObject:
   - component: {fileID: 1657749738}
   - component: {fileID: 1657749739}
   m_Layer: 0
-  m_Name: ant
+  m_Name: Ant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17516,7 +17335,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1954137368}
-  m_RootOrder: 4
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1657749738
 SpriteRenderer:
@@ -17594,7 +17413,7 @@ GameObject:
   - component: {fileID: 1661151249}
   - component: {fileID: 1661151250}
   m_Layer: 0
-  m_Name: spider
+  m_Name: Spider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17612,7 +17431,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1817900858}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1661151249
 SpriteRenderer:
@@ -17690,7 +17509,7 @@ GameObject:
   - component: {fileID: 1672828033}
   - component: {fileID: 1672828034}
   m_Layer: 0
-  m_Name: bee
+  m_Name: Bee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17786,7 +17605,7 @@ GameObject:
   - component: {fileID: 1676339279}
   - component: {fileID: 1676339280}
   m_Layer: 0
-  m_Name: ant
+  m_Name: Ant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17882,7 +17701,7 @@ GameObject:
   - component: {fileID: 1697155754}
   - component: {fileID: 1697155755}
   m_Layer: 0
-  m_Name: ant
+  m_Name: Ant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17900,7 +17719,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 860038637}
-  m_RootOrder: 4
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1697155754
 SpriteRenderer:
@@ -17978,7 +17797,7 @@ GameObject:
   - component: {fileID: 1707650562}
   - component: {fileID: 1707650563}
   m_Layer: 0
-  m_Name: spider
+  m_Name: Spider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17996,7 +17815,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1097884521}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1707650562
 SpriteRenderer:
@@ -18074,7 +17893,7 @@ GameObject:
   - component: {fileID: 1708988615}
   - component: {fileID: 1708988617}
   m_Layer: 0
-  m_Name: ant
+  m_Name: Ant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18170,7 +17989,7 @@ GameObject:
   - component: {fileID: 1710567967}
   - component: {fileID: 1710567968}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18188,7 +18007,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1072767240}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1710567967
 SpriteRenderer:
@@ -18230,12 +18049,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 6a0f1d4dabe561942a84a435c6389613, type: 3}
+  m_Sprite: {fileID: 21300000, guid: cc3af520c25d83846b7d0b59ebda184d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.97}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -18267,7 +18086,7 @@ GameObject:
   - component: {fileID: 1725021194}
   - component: {fileID: 1725021193}
   m_Layer: 0
-  m_Name: Cam31
+  m_Name: Cam 31
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18501,7 +18320,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3338937823814691199, guid: a83139c77e645cf479eeb5fd57200dbb, type: 3}
       propertyPath: m_Name
-      value: Rock_Shot22-24
+      value: Rock 22-24
       objectReference: {fileID: 0}
     - target: {fileID: 3338937823814691199, guid: a83139c77e645cf479eeb5fd57200dbb, type: 3}
       propertyPath: m_IsActive
@@ -18550,7 +18369,7 @@ Transform:
   - {fileID: 1113560985}
   - {fileID: 1987401721}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1765534519
 GameObject:
@@ -18565,7 +18384,7 @@ GameObject:
   - component: {fileID: 1765534522}
   - component: {fileID: 1765534521}
   m_Layer: 0
-  m_Name: Cam28
+  m_Name: Cam 28
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18668,7 +18487,7 @@ GameObject:
   - component: {fileID: 1771291555}
   - component: {fileID: 1771291554}
   m_Layer: 0
-  m_Name: Cam26
+  m_Name: Cam 26
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18770,7 +18589,7 @@ GameObject:
   - component: {fileID: 1807217169}
   - component: {fileID: 1807217170}
   m_Layer: 0
-  m_Name: bee
+  m_Name: Bee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18866,7 +18685,7 @@ GameObject:
   - component: {fileID: 1814256948}
   - component: {fileID: 1814256949}
   m_Layer: 0
-  m_Name: ant
+  m_Name: Ant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18884,7 +18703,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 756308230}
-  m_RootOrder: 4
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1814256948
 SpriteRenderer:
@@ -18961,7 +18780,7 @@ GameObject:
   - component: {fileID: 1817900858}
   - component: {fileID: 1817900859}
   m_Layer: 0
-  m_Name: Bugs_Shot9
+  m_Name: Bugs 17
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18978,11 +18797,11 @@ Transform:
   m_LocalPosition: {x: -0.00556, y: 0.0015, z: -0.00319}
   m_LocalScale: {x: 0.0006666668, y: 0.00066666666, z: 0.00066666683}
   m_Children:
+  - {fileID: 476873515}
   - {fileID: 1585097884}
   - {fileID: 1259020558}
   - {fileID: 646064996}
   - {fileID: 1661151248}
-  - {fileID: 476873515}
   m_Father: {fileID: 1283680895}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 4.634, y: -71.208, z: 363.1}
@@ -19017,7 +18836,7 @@ GameObject:
   - component: {fileID: 1835580872}
   - component: {fileID: 1835580873}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19077,12 +18896,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 389ce571014a3c1478bf3071df727f91, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 31f6022f8455ca04a9c3c97c888a574f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.97}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -19113,7 +18932,7 @@ GameObject:
   - component: {fileID: 1841141800}
   - component: {fileID: 1841141801}
   m_Layer: 0
-  m_Name: spider
+  m_Name: Spider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19131,7 +18950,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 879123945}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1841141800
 SpriteRenderer:
@@ -19209,7 +19028,7 @@ GameObject:
   - component: {fileID: 1842716549}
   - component: {fileID: 1842716550}
   m_Layer: 0
-  m_Name: ant
+  m_Name: Ant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19227,7 +19046,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2050275077}
-  m_RootOrder: 4
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1842716549
 SpriteRenderer:
@@ -19305,7 +19124,7 @@ GameObject:
   - component: {fileID: 1898464144}
   - component: {fileID: 1898464145}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19323,7 +19142,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 756308230}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1898464144
 SpriteRenderer:
@@ -19365,12 +19184,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 4ef9a0eac11044141822d720e572f0d0, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2494005ea5389fc46b66e2d6cbbac915, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.97}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -19436,7 +19255,7 @@ Transform:
   - {fileID: 860038637}
   - {fileID: 1925353030}
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1906658387
 GameObject:
@@ -19450,7 +19269,7 @@ GameObject:
   - component: {fileID: 1906658389}
   - component: {fileID: 1906658390}
   m_Layer: 0
-  m_Name: bee
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19510,12 +19329,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 8707b3a58839adb44b7b90fd7e812e54, type: 3}
+  m_Sprite: {fileID: 21300000, guid: db436ad584c537a4281d7a7f53ac3c62, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 5, y: 5.5}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -19624,7 +19443,7 @@ GameObject:
   - component: {fileID: 1925353030}
   - component: {fileID: 1925353031}
   m_Layer: 0
-  m_Name: Bugs_Shot32
+  m_Name: Bugs 32
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19641,11 +19460,11 @@ Transform:
   m_LocalPosition: {x: 859.67, y: 91.88, z: 266.3}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
+  - {fileID: 1552382900}
   - {fileID: 717277386}
   - {fileID: 539940488}
   - {fileID: 1953910606}
   - {fileID: 240029700}
-  - {fileID: 1552382900}
   m_Father: {fileID: 1905317774}
   m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -19680,7 +19499,7 @@ GameObject:
   - component: {fileID: 1932005167}
   - component: {fileID: 1932005168}
   m_Layer: 0
-  m_Name: caterpillar
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19740,12 +19559,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 155446bcfe6780e46aa4f94d82825e2a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 27d787ec6a919434cbbe423c49a8cead, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -19777,7 +19596,7 @@ GameObject:
   - component: {fileID: 1943877371}
   - component: {fileID: 1943877370}
   m_Layer: 0
-  m_Name: Cam16
+  m_Name: Cam 16
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19879,7 +19698,7 @@ GameObject:
   - component: {fileID: 1948537927}
   - component: {fileID: 1948537928}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19939,12 +19758,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 2cafca29247eef74c81f68838eba8b01, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 68f1d04787c26e646a4127fa5dfe880e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 4.25, y: 4.96}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -19976,7 +19795,7 @@ GameObject:
   - component: {fileID: 1949137861}
   - component: {fileID: 1949137860}
   m_Layer: 0
-  m_Name: Cam8
+  m_Name: Cam 8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20077,7 +19896,7 @@ GameObject:
   - component: {fileID: 1950630139}
   - component: {fileID: 1950630140}
   m_Layer: 0
-  m_Name: Bugs_Shot30
+  m_Name: Bugs 30
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20094,11 +19913,11 @@ Transform:
   m_LocalPosition: {x: 847.5, y: 80.56, z: 254.94}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
+  - {fileID: 1309142354}
   - {fileID: 866769692}
   - {fileID: 571082377}
   - {fileID: 507760085}
   - {fileID: 2035475765}
-  - {fileID: 1309142354}
   m_Father: {fileID: 1905317774}
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -20133,7 +19952,7 @@ GameObject:
   - component: {fileID: 1953910607}
   - component: {fileID: 1953910608}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20151,7 +19970,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1925353030}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1953910607
 SpriteRenderer:
@@ -20193,12 +20012,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 62f051c64d11f4a48a777d0eac524fcc, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8a09df32ec804cf41a59f6d68081dfbe, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.97}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -20228,7 +20047,7 @@ GameObject:
   - component: {fileID: 1954137368}
   - component: {fileID: 1954137369}
   m_Layer: 0
-  m_Name: Bugs_Shot29
+  m_Name: Bugs 29
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20245,11 +20064,11 @@ Transform:
   m_LocalPosition: {x: 813.65, y: 68.8, z: 261.7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
+  - {fileID: 1657749737}
   - {fileID: 186258090}
   - {fileID: 365581981}
   - {fileID: 1095926872}
   - {fileID: 1619846794}
-  - {fileID: 1657749737}
   m_Father: {fileID: 1905317774}
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -20284,7 +20103,7 @@ GameObject:
   - component: {fileID: 1955304534}
   - component: {fileID: 1955304535}
   m_Layer: 0
-  m_Name: ant
+  m_Name: Ant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20380,7 +20199,7 @@ GameObject:
   - component: {fileID: 1966539050}
   - component: {fileID: 1966539051}
   m_Layer: 0
-  m_Name: caterpillar
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20398,7 +20217,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2133181796}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1966539050
 SpriteRenderer:
@@ -20440,12 +20259,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: a9d028b5f518d1c47b70633e4c96fd15, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9dc0bee959539724b8fec872199fdfbe, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -20476,7 +20295,7 @@ GameObject:
   - component: {fileID: 1975571966}
   - component: {fileID: 1975571967}
   m_Layer: 0
-  m_Name: bee
+  m_Name: Bee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20494,7 +20313,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2133181796}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1975571966
 SpriteRenderer:
@@ -20573,7 +20392,7 @@ GameObject:
   - component: {fileID: 1983012621}
   - component: {fileID: 1983012620}
   m_Layer: 0
-  m_Name: Cam15
+  m_Name: Cam 15
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20676,7 +20495,7 @@ GameObject:
   - component: {fileID: 1987401719}
   - component: {fileID: 1987401718}
   m_Layer: 0
-  m_Name: Water (2)
+  m_Name: Water 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20771,7 +20590,7 @@ GameObject:
   - component: {fileID: 1992869662}
   - component: {fileID: 1992869663}
   m_Layer: 0
-  m_Name: bee
+  m_Name: Bee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20868,7 +20687,7 @@ GameObject:
   - component: {fileID: 1996780855}
   - component: {fileID: 1996780854}
   m_Layer: 0
-  m_Name: Cam22
+  m_Name: Cam 22
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21023,11 +20842,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
       propertyPath: m_Name
-      value: Leaf_Shot15
+      value: Leaf 15
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1507767883509144192, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
+      propertyPath: m_Name
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2231961243136057995, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
+      propertyPath: m_Name
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
@@ -21053,7 +20880,7 @@ GameObject:
   - component: {fileID: 2006514831}
   - component: {fileID: 2006514833}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21099,12 +20926,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c7863ece2c9f6304cad4fe2a7f808289, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3a044673d2a1cb24a9a3939d1dd6ff73, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -21150,7 +20977,7 @@ GameObject:
   - component: {fileID: 2019597011}
   - component: {fileID: 2019597010}
   m_Layer: 0
-  m_Name: Cam18
+  m_Name: Cam 18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21252,7 +21079,7 @@ GameObject:
   - component: {fileID: 2020633415}
   - component: {fileID: 2020633416}
   m_Layer: 0
-  m_Name: grasshopper
+  m_Name: Dragonfly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21312,12 +21139,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: abbc1da3df3a01245abc65aa93c48664, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a9899282b1187d849ae1ad3488f9bb1d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 3.33, y: 3.97}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -21348,7 +21175,7 @@ GameObject:
   - component: {fileID: 2030935087}
   - component: {fileID: 2030935088}
   m_Layer: 0
-  m_Name: ant
+  m_Name: Ant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21533,11 +21360,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
       propertyPath: m_Name
-      value: Leaf_Shot18
+      value: Leaf 18
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1507767883509144192, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
+      propertyPath: m_Name
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2231961243136057995, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
+      propertyPath: m_Name
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b3b660e15c60aad44998a2d960a37b56, type: 3}
@@ -21582,7 +21417,7 @@ GameObject:
   - component: {fileID: 2035475766}
   - component: {fileID: 2035475767}
   m_Layer: 0
-  m_Name: spider
+  m_Name: Spider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21600,7 +21435,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1950630139}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &2035475766
 SpriteRenderer:
@@ -21677,7 +21512,7 @@ GameObject:
   - component: {fileID: 2038669870}
   - component: {fileID: 2038669871}
   m_Layer: 0
-  m_Name: Bugs_Shot21
+  m_Name: Bugs 21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21729,7 +21564,7 @@ GameObject:
   - component: {fileID: 2050275077}
   - component: {fileID: 2050275078}
   m_Layer: 0
-  m_Name: Bugs_Shot22
+  m_Name: Bugs 22
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21746,11 +21581,11 @@ Transform:
   m_LocalPosition: {x: 632.6, y: 248.9, z: 280.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
+  - {fileID: 1842716548}
   - {fileID: 512377910}
   - {fileID: 444720339}
   - {fileID: 1448698053}
   - {fileID: 215912620}
-  - {fileID: 1842716548}
   m_Father: {fileID: 1905317774}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0.000006085564, z: 0}
@@ -21785,7 +21620,7 @@ GameObject:
   - component: {fileID: 2054864645}
   - component: {fileID: 2054864646}
   m_Layer: 0
-  m_Name: caterpillar
+  m_Name: Caterpillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21803,7 +21638,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 860038637}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &2054864645
 SpriteRenderer:
@@ -21845,12 +21680,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 02f3e88995685f44aa000f676c91c66f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d1bbe944c222d6a438a1223c1a4b4617, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 5.12}
+  m_Size: {x: 4.5, y: 3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -21943,7 +21778,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2060103997
 GameObject:
@@ -21957,7 +21792,7 @@ GameObject:
   - component: {fileID: 2060103999}
   - component: {fileID: 2060104000}
   m_Layer: 0
-  m_Name: spider
+  m_Name: Spider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22144,6 +21979,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -9.166
       objectReference: {fileID: 0}
+    - target: {fileID: -4819223349682164798, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
+      propertyPath: m_Name
+      value: body
+      objectReference: {fileID: 0}
     - target: {fileID: -2996886105467501240, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.0001
@@ -22184,6 +22023,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -1.624
       objectReference: {fileID: 0}
+    - target: {fileID: -2511240423080479738, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
+      propertyPath: m_Name
+      value: head
+      objectReference: {fileID: 0}
     - target: {fileID: -604076889974743773, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
       propertyPath: m_LocalRotation.w
       value: 0.90856075
@@ -22214,11 +22057,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
       propertyPath: m_Name
-      value: Bear_Shot31
+      value: Bear 31
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3103570181930484655, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
       propertyPath: m_LocalPosition.x
@@ -22371,7 +22214,7 @@ GameObject:
   - component: {fileID: 2078081983}
   - component: {fileID: 2078081984}
   m_Layer: 0
-  m_Name: spider
+  m_Name: Spider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22389,7 +22232,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2133181796}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &2078081983
 SpriteRenderer:
@@ -22466,7 +22309,7 @@ GameObject:
   - component: {fileID: 2081090519}
   - component: {fileID: 2081090518}
   m_Layer: 0
-  m_Name: Bugs_Shot2
+  m_Name: Bugs 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22521,7 +22364,7 @@ GameObject:
   - component: {fileID: 2133181796}
   - component: {fileID: 2133181797}
   m_Layer: 0
-  m_Name: Bugs_Shot25
+  m_Name: Bugs 25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22538,11 +22381,11 @@ Transform:
   m_LocalPosition: {x: -0.5698008, y: -0.08553884, z: 0.009122314}
   m_LocalScale: {x: 0.010000012, y: 0.09999601, z: 0.010000026}
   m_Children:
+  - {fileID: 257711497}
   - {fileID: 1975571965}
   - {fileID: 1966539049}
   - {fileID: 729503544}
   - {fileID: 2078081982}
-  - {fileID: 257711497}
   m_Father: {fileID: 629548410}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0.000006085564, z: 0}
@@ -22578,7 +22421,7 @@ GameObject:
   - component: {fileID: 2140417888}
   - component: {fileID: 2140417887}
   m_Layer: 0
-  m_Name: Cam9
+  m_Name: Cam 9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22717,11 +22560,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1157540130946520229}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0, y: -0.016678095, z: 0}
+  m_LocalPosition: {x: 0, y: -0.016678095, z: 0}
   m_LocalScale: {x: 0.8, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 3063710008844998796}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &272351166382320375
 Transform:
@@ -22730,12 +22573,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5550964806443088436}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.006500015, y: 0.0025959776, z: -0.0035546874}
-  m_LocalScale: {x: 0.099999994, y: 0.099999994, z: 0.099999994}
+  m_LocalRotation: {x: -0, y: -0, z: -0.38268346, w: 0.9238795}
+  m_LocalPosition: {x: 0.008231849, y: -0.00276062, z: -0.0035546874}
+  m_LocalScale: {x: 0.099999994, y: 0.099999994, z: 0.09999998}
   m_Children: []
-  m_Father: {fileID: 128543838}
-  m_RootOrder: 2
+  m_Father: {fileID: 3063710008844998796}
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &384896395421490586
 MeshFilter:
@@ -22794,11 +22637,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6572819712887289641}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0, y: -0.027458794, z: -0.004139838}
+  m_LocalPosition: {x: 0, y: -0.027458794, z: -0.004139838}
   m_LocalScale: {x: 0.3, y: 0.5, z: 0.3}
   m_Children: []
   m_Father: {fileID: 3063710008844998796}
-  m_RootOrder: 3
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &763977624230055662
 MeshFilter:
@@ -22897,7 +22740,7 @@ GameObject:
   - component: {fileID: 3063710008844998796}
   - component: {fileID: 2436355768748048951}
   m_Layer: 0
-  m_Name: Bear_Shot28
+  m_Name: Bear 28
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23059,12 +22902,20 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 200, y: 200, z: 200}
   m_Children:
-  - {fileID: 128543838}
   - {fileID: 263128594780265048}
+  - {fileID: 7276787773738307754}
   - {fileID: 3580667697965675655}
+  - {fileID: 5894995935049354219}
+  - {fileID: 272351166382320375}
+  - {fileID: 5799635618017904150}
   - {fileID: 440470797313162440}
+  - {fileID: 7954866531694463514}
   - {fileID: 8891845706842700335}
+  - {fileID: 7706017504693392809}
+  - {fileID: 4548547213095850929}
+  - {fileID: 6526602327597965892}
   - {fileID: 6141445205974244255}
+  - {fileID: 7517781799991492920}
   m_Father: {fileID: 39648628}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 90}
@@ -23135,7 +22986,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4201100848262044270}
   m_LocalRotation: {x: -0.48880556, y: -0.12180834, z: 0.028869387, w: 0.8633646}
-  m_LocalPosition: {x: -0, y: -0.014199072, z: -0.009115597}
+  m_LocalPosition: {x: 0, y: -0.014199072, z: -0.009115597}
   m_LocalScale: {x: 0.25, y: 0.25, z: 0.8}
   m_Children: []
   m_Father: {fileID: 3063710008844998796}
@@ -23272,12 +23123,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1657699775112129425}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.006500015, y: 0.0025587464, z: 0.0038061521}
-  m_LocalScale: {x: 0.099999994, y: 0.099999994, z: 0.099999994}
+  m_LocalRotation: {x: -0, y: -0, z: -0.38268346, w: 0.9238795}
+  m_LocalPosition: {x: 0.008205528, y: -0.0027868652, z: 0.0038061521}
+  m_LocalScale: {x: 0.099999994, y: 0.099999994, z: 0.09999998}
   m_Children: []
-  m_Father: {fileID: 128543838}
-  m_RootOrder: 6
+  m_Father: {fileID: 3063710008844998796}
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &5330393351203566339
 MeshRenderer:
@@ -23404,12 +23255,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3385494746505990827}
-  m_LocalRotation: {x: 0.12350315, y: 0.15681624, z: 0.2645241, w: 0.9434949}
-  m_LocalPosition: {x: 0.005904846, y: 0.0051831054, z: -0.0035531616}
-  m_LocalScale: {x: 0.05, y: 0.09999999, z: 0.45}
+  m_LocalRotation: {x: 0.17411302, y: 0.09761678, z: -0.11667146, w: 0.9729047}
+  m_LocalPosition: {x: 0.00964035, y: -0.0005104065, z: -0.0035531616}
+  m_LocalScale: {x: 0.049999993, y: 0.09999998, z: 0.45}
   m_Children: []
-  m_Father: {fileID: 128543838}
-  m_RootOrder: 3
+  m_Father: {fileID: 3063710008844998796}
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 8.632, y: 21.431, z: 32.96}
 --- !u!23 &5814014839703131289
 MeshRenderer:
@@ -23459,12 +23310,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7525230705763019601}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.006977539, z: -0.009219361}
-  m_LocalScale: {x: 0.15, y: 0.39999998, z: 0.39999998}
+  m_LocalRotation: {x: -0, y: -0, z: -0.38268346, w: 0.9238795}
+  m_LocalPosition: {x: 0.006733856, y: 0.0049339295, z: -0.009219361}
+  m_LocalScale: {x: 0.15000002, y: 0.39999998, z: 0.39999992}
   m_Children: []
-  m_Father: {fileID: 128543838}
-  m_RootOrder: 1
+  m_Father: {fileID: 3063710008844998796}
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &6140450798367344157
 MeshRenderer:
@@ -23519,7 +23370,7 @@ Transform:
   m_LocalScale: {x: 0.3, y: 0.5, z: 0.3}
   m_Children: []
   m_Father: {fileID: 3063710008844998796}
-  m_RootOrder: 5
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &6362090711986816475
 MeshRenderer:
@@ -23585,12 +23436,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3038527055168019562}
-  m_LocalRotation: {x: -0.14950548, y: -0.13812925, z: 0.22283667, w: 0.95336896}
-  m_LocalPosition: {x: 0.0059006116, y: 0.005198669, z: 0.0038504028}
-  m_LocalScale: {x: 0.049999993, y: 0.099999994, z: 0.45}
+  m_LocalRotation: {x: -0.19098485, y: -0.07040155, z: -0.15896428, w: 0.966074}
+  m_LocalPosition: {x: 0.009648361, y: -0.0004963684, z: 0.0038504028}
+  m_LocalScale: {x: 0.049999993, y: 0.09999999, z: 0.45000008}
   m_Children: []
-  m_Father: {fileID: 128543838}
-  m_RootOrder: 7
+  m_Father: {fileID: 3063710008844998796}
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: -12.915, y: -19.79, z: 28.574}
 --- !u!1 &6572819712887289641
 GameObject:
@@ -23633,12 +23484,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8081864956620901217}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0.38268346, w: 0.9238795}
+  m_LocalPosition: {x: 0.001800003, y: 0, z: 0}
   m_LocalScale: {x: 0.79999995, y: 0.9, z: 1}
   m_Children: []
-  m_Father: {fileID: 128543838}
-  m_RootOrder: 0
+  m_Father: {fileID: 3063710008844998796}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &7517781799991492920
 Transform:
@@ -23647,12 +23498,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7699332791314618744}
-  m_LocalRotation: {x: 0.0028802457, y: -0.0065845554, z: -0.109915115, w: 0.993915}
-  m_LocalPosition: {x: 0.0064797974, y: -0.0022148131, z: 0}
-  m_LocalScale: {x: 0.23231983, y: 0.40000004, z: 0.39999998}
+  m_LocalRotation: {x: 0.0001412034, y: -0.0071855783, z: -0.48190314, w: 0.8761951}
+  m_LocalPosition: {x: 0.004815788, y: -0.006148071, z: 0}
+  m_LocalScale: {x: 0.23231982, y: 0.40000007, z: 0.40000004}
   m_Children: []
-  m_Father: {fileID: 128543838}
-  m_RootOrder: 8
+  m_Father: {fileID: 3063710008844998796}
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &7525230705763019601
 GameObject:
@@ -23715,12 +23566,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2754273955303678928}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.0066044615, z: 0.009397278}
-  m_LocalScale: {x: 0.15, y: 0.39999998, z: 0.39999998}
+  m_LocalRotation: {x: -0, y: -0, z: -0.38268346, w: 0.9238795}
+  m_LocalPosition: {x: 0.0064700698, y: 0.004670105, z: 0.009397278}
+  m_LocalScale: {x: 0.15000002, y: 0.39999998, z: 0.39999992}
   m_Children: []
-  m_Father: {fileID: 128543838}
-  m_RootOrder: 5
+  m_Father: {fileID: 3063710008844998796}
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &7954866531694463514
 Transform:
@@ -23729,12 +23580,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7651939471297140192}
-  m_LocalRotation: {x: 0.0041997437, y: 0.0005732775, z: 0.054580647, w: 0.99850035}
-  m_LocalPosition: {x: 0.008674926, y: -0.0008537292, z: 0}
-  m_LocalScale: {x: 0.07506653, y: 0.12004779, z: 0.20000002}
+  m_LocalRotation: {x: 0.0040994287, y: -0.0010775328, z: -0.33168358, w: 0.9433812}
+  m_LocalPosition: {x: 0.0073304367, y: -0.006737823, z: 0}
+  m_LocalScale: {x: 0.07506653, y: 0.120047785, z: 0.20000003}
   m_Children: []
-  m_Father: {fileID: 128543838}
-  m_RootOrder: 4
+  m_Father: {fileID: 3063710008844998796}
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &8081864956620901217
 GameObject:
@@ -23852,9 +23703,9 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5348126085505296599}
   m_LocalRotation: {x: 0.5027804, y: 0.031779822, z: -0.11860391, w: 0.85564893}
-  m_LocalPosition: {x: -0, y: -0.014686569, z: 0.00894827}
+  m_LocalPosition: {x: 0, y: -0.014686569, z: 0.00894827}
   m_LocalScale: {x: 0.25, y: 0.25, z: 0.8}
   m_Children: []
   m_Father: {fileID: 3063710008844998796}
-  m_RootOrder: 4
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
