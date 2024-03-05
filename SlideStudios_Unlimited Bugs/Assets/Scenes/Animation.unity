@@ -926,7 +926,7 @@ GameObject:
   - component: {fileID: 79824864}
   - component: {fileID: 79824865}
   m_Layer: 0
-  m_Name: Bugs 23
+  m_Name: Bugs 25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -940,7 +940,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 79824863}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 632.6, y: 248.9, z: 280.5}
+  m_LocalPosition: {x: 635.51, y: 248.9, z: 287.9}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 251288044}
@@ -1682,7 +1682,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 136466343}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.58, y: -2.4799957, z: -12.07}
+  m_LocalPosition: {x: 3.58, y: -2.4799957, z: -12.85}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 79824864}
@@ -2361,7 +2361,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 251288043}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.59, y: -2.43, z: -9.03}
+  m_LocalPosition: {x: 8.77, y: -2.43, z: -11.72}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 79824864}
@@ -5742,7 +5742,7 @@ GameObject:
   - component: {fileID: 553067270}
   - component: {fileID: 553067271}
   m_Layer: 0
-  m_Name: Bugs 24
+  m_Name: Bugs 26
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7806,8 +7806,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 725738130}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.16, y: -3, z: -8.06}
+  m_LocalRotation: {x: -0.3657482, y: 0.6221694, z: -0.4319262, w: -0.54090047}
+  m_LocalPosition: {x: 7.62, y: -3.18, z: -8.41}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 79824864}
@@ -8095,7 +8095,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 730483621}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.7099853, y: -3.24, z: -6.7099957}
+  m_LocalPosition: {x: 5.52, y: -3.24, z: -5.79}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 79824864}
@@ -12788,7 +12788,7 @@ Transform:
   - {fileID: 1906658388}
   - {fileID: 1520220523}
   m_Father: {fileID: 1905317774}
-  m_RootOrder: 12
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &1189849361
 Animator:
@@ -18650,7 +18650,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3338937823814691199, guid: a83139c77e645cf479eeb5fd57200dbb, type: 3}
       propertyPath: m_Name
-      value: Rock 22-24
+      value: Rock 24-26
       objectReference: {fileID: 0}
     - target: {fileID: 3338937823814691199, guid: a83139c77e645cf479eeb5fd57200dbb, type: 3}
       propertyPath: m_IsActive
@@ -19576,8 +19576,8 @@ Transform:
   - {fileID: 736687667}
   - {fileID: 798857743}
   - {fileID: 879123945}
-  - {fileID: 2038669870}
   - {fileID: 1189849360}
+  - {fileID: 2038669870}
   - {fileID: 2050275077}
   - {fileID: 79824864}
   - {fileID: 553067270}
@@ -21866,7 +21866,7 @@ Transform:
   - {fileID: 787742322}
   - {fileID: 1948537926}
   m_Father: {fileID: 1905317774}
-  m_RootOrder: 11
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &2038669871
 Animator:
@@ -21898,7 +21898,7 @@ GameObject:
   - component: {fileID: 2050275077}
   - component: {fileID: 2050275078}
   m_Layer: 0
-  m_Name: Bugs 22
+  m_Name: Bugs 24
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
