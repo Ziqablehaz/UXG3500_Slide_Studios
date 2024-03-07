@@ -427,7 +427,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
       propertyPath: m_Name
-      value: Bear 29
+      value: Bear 31
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
       propertyPath: m_IsActive
@@ -3985,7 +3985,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
       propertyPath: m_Name
-      value: Bear 30
+      value: Bear 32
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
       propertyPath: m_IsActive
@@ -7460,8 +7460,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 697139622}
-  m_LocalRotation: {x: 0.36574817, y: -0.6221694, z: 0.43192616, w: 0.54090047}
-  m_LocalPosition: {x: 212.38, y: -142.02, z: 12.100006}
+  m_LocalRotation: {x: -0.3657482, y: 0.6221694, z: -0.4319262, w: -0.54090047}
+  m_LocalPosition: {x: 212.6, y: -142, z: 10.500001}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 312409905}
@@ -8327,7 +8327,7 @@ GameObject:
   - component: {fileID: 749996406}
   - component: {fileID: 749996407}
   m_Layer: 0
-  m_Name: Bugs 26
+  m_Name: Bugs 28
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9521,7 +9521,7 @@ GameObject:
   - component: {fileID: 860038637}
   - component: {fileID: 860038638}
   m_Layer: 0
-  m_Name: Bugs 31
+  m_Name: Bugs 33
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10407,7 +10407,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3338937823814691199, guid: a83139c77e645cf479eeb5fd57200dbb, type: 3}
       propertyPath: m_Name
-      value: Rock 26
+      value: Rock 28
       objectReference: {fileID: 0}
     - target: {fileID: 3338937823814691199, guid: a83139c77e645cf479eeb5fd57200dbb, type: 3}
       propertyPath: m_IsActive
@@ -11820,7 +11820,7 @@ GameObject:
   - component: {fileID: 1072767240}
   - component: {fileID: 1072767241}
   m_Layer: 0
-  m_Name: Bugs 28
+  m_Name: Bugs 30
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12074,7 +12074,7 @@ GameObject:
   - component: {fileID: 1097884521}
   - component: {fileID: 1097884522}
   m_Layer: 0
-  m_Name: Bugs 27
+  m_Name: Bugs 29
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13516,7 +13516,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
       propertyPath: m_Name
-      value: Bear 27
+      value: Bear 29
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
       propertyPath: m_IsActive
@@ -19797,7 +19797,7 @@ GameObject:
   - component: {fileID: 1925353030}
   - component: {fileID: 1925353031}
   m_Layer: 0
-  m_Name: Bugs 32
+  m_Name: Bugs 34
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20250,7 +20250,7 @@ GameObject:
   - component: {fileID: 1950630139}
   - component: {fileID: 1950630140}
   m_Layer: 0
-  m_Name: Bugs 30
+  m_Name: Bugs 32
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20401,7 +20401,7 @@ GameObject:
   - component: {fileID: 1954137368}
   - component: {fileID: 1954137369}
   m_Layer: 0
-  m_Name: Bugs 29
+  m_Name: Bugs 31
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21054,7 +21054,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1996780852}
-  m_LocalRotation: {x: 0.21413288, y: -0.71564364, z: 0.24851339, w: 0.61663806}
+  m_LocalRotation: {x: -0.2141328, y: 0.71564364, z: -0.2485134, w: -0.61663806}
   m_LocalPosition: {x: 221.16, y: -143.59, z: 12.54}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -22411,7 +22411,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
       propertyPath: m_Name
-      value: Bear 31
+      value: Bear 33
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4269b210ada4d9b438b1fc3b61c862a0, type: 3}
       propertyPath: m_IsActive
@@ -23094,7 +23094,7 @@ GameObject:
   - component: {fileID: 3063710008844998796}
   - component: {fileID: 2436355768748048951}
   m_Layer: 0
-  m_Name: Bear 28
+  m_Name: Bear 30
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
