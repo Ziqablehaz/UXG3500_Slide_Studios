@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.83808255, g: 0.8924498, b: 0.9226242, a: 1}
+  m_IndirectSpecularColor: {r: 0.8380136, g: 0.8924083, b: 0.9225759, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1876,6 +1876,7 @@ GameObject:
   - component: {fileID: 169924360}
   - component: {fileID: 169924361}
   - component: {fileID: 169924362}
+  - component: {fileID: 169924363}
   m_Layer: 0
   m_Name: Dragonfly
   m_TagString: Untagged
@@ -1961,6 +1962,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   camera: {fileID: 566632096}
+--- !u!95 &169924363
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 169924359}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &186258089
 GameObject:
   m_ObjectHideFlags: 0
@@ -3302,6 +3322,7 @@ GameObject:
   - component: {fileID: 344035060}
   - component: {fileID: 344035061}
   - component: {fileID: 344035062}
+  - component: {fileID: 344035063}
   m_Layer: 0
   m_Name: Spider
   m_TagString: Untagged
@@ -3363,7 +3384,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 9541ec93f2a99af4caf41d5a779fc13d, type: 3}
+  m_Sprite: {fileID: 6443120291769306099, guid: 2157d65e414009a4dae01e94c056689a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3387,6 +3408,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   camera: {fileID: 566632096}
+--- !u!95 &344035063
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 344035059}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: e7471aa4b85754b4f99089d89be37ef7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &362791930
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3954,6 +3994,7 @@ GameObject:
   - component: {fileID: 398468219}
   - component: {fileID: 398468220}
   - component: {fileID: 398468221}
+  - component: {fileID: 398468222}
   m_Layer: 0
   m_Name: Caterpillar
   m_TagString: Untagged
@@ -4039,6 +4080,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   camera: {fileID: 566632096}
+--- !u!95 &398468222
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 398468218}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &405044469
 GameObject:
   m_ObjectHideFlags: 0
@@ -8680,6 +8740,7 @@ GameObject:
   - component: {fileID: 729296519}
   - component: {fileID: 729296520}
   - component: {fileID: 729296521}
+  - component: {fileID: 729296522}
   m_Layer: 0
   m_Name: Ant
   m_TagString: Untagged
@@ -8741,7 +8802,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 11f59db4ac3056c448c506e870865dff, type: 3}
+  m_Sprite: {fileID: -5538007440240616242, guid: 7a22379443df831488b2e90f574540b8, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -8765,6 +8826,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   camera: {fileID: 566632096}
+--- !u!95 &729296522
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 729296518}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: bd904958222924efdbb2dc47a790cb50, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &729503543
 GameObject:
   m_ObjectHideFlags: 0
@@ -13945,6 +14025,7 @@ GameObject:
   - component: {fileID: 1156654665}
   - component: {fileID: 1156654666}
   - component: {fileID: 1156654667}
+  - component: {fileID: 1156654668}
   m_Layer: 0
   m_Name: Bee
   m_TagString: Untagged
@@ -14006,7 +14087,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 2ef97f2d6be82b945941b4ec1fb4a876, type: 3}
+  m_Sprite: {fileID: 5979415545921136507, guid: c897d0954fb66d040b9ede3154cba074, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -14030,6 +14111,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   camera: {fileID: 566632096}
+--- !u!95 &1156654668
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1156654664}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 344240043f7f043609fc0723299403b0, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1176777502
 GameObject:
   m_ObjectHideFlags: 0
