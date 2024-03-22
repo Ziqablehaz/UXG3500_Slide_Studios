@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.43726084, g: 0.75450844, b: 1.0290486, a: 1}
+  m_IndirectSpecularColor: {r: 0.4372612, g: 0.754508, b: 1.0290478, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -15492,7 +15492,7 @@ GameObject:
   - component: {fileID: 1247990506}
   - component: {fileID: 1247990505}
   m_Layer: 5
-  m_Name: Droplets
+  m_Name: Water Droplets
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15556,7 +15556,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c72f0dbbbe4e79f4183f7869ec35d136, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 744405770813140d88f6eed797a00275, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
