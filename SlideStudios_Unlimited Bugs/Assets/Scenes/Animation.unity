@@ -5590,15 +5590,15 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -1919119720, guid: 6576e5ad4cdee4903a46faafb2954bab, type: 3}
+  m_Sprite: {fileID: -584015510, guid: 6576e5ad4cdee4903a46faafb2954bab, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 7.8, y: 4.68}
+  m_Size: {x: 35.08, y: 24.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &470774151
@@ -15101,6 +15101,8 @@ PlayableDirector:
     value: {fileID: 751815886}
   - key: {fileID: -3020097431033419950, guid: cc2a3f9f79806f3449f375a3f87ea8ad, type: 2}
     value: {fileID: 1072767241}
+  - key: {fileID: -6666807663881114038, guid: cc2a3f9f79806f3449f375a3f87ea8ad, type: 2}
+    value: {fileID: 1565339469}
   m_ExposedReferences:
     m_References: []
 --- !u!4 &1021135769
@@ -23112,7 +23114,7 @@ Animator:
   m_GameObject: {fileID: 1565339466}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 801d695681612aa40ac7c8ffa04822cc, type: 2}
+  m_Controller: {fileID: 0}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
