@@ -33316,7 +33316,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Copyright \xA9 DigiPen Institute of Technology 2024\n\nThis project is
+  m_Text: "Copyright \xA9 2024 DigiPen Institute of Technology\n\nThis project is
     strictly intended for academic purposes only and is\r\nnot authorised for commercial
     use."
 --- !u!222 &1520560060
