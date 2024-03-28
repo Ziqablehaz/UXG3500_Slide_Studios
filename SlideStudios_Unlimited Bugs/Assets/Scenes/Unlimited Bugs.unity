@@ -30373,9 +30373,9 @@ RectTransform:
   m_Children:
   - {fileID: 1405429315}
   - {fileID: 1909339566}
-  - {fileID: 1247990504}
   - {fileID: 1406953781}
   - {fileID: 1560920939}
+  - {fileID: 1247990504}
   - {fileID: 1290832117}
   - {fileID: 85322474}
   - {fileID: 784591284}
@@ -31136,7 +31136,7 @@ GameObject:
   - component: {fileID: 1405429316}
   - component: {fileID: 1405429318}
   m_Layer: 5
-  m_Name: Logo
+  m_Name: Team Logo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31238,7 +31238,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1406953781
 RectTransform:
   m_ObjectHideFlags: 0
