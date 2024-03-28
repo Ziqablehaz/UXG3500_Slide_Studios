@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b2cfab696dfed4388b0bfcb8ad518413
+guid: f753d76b95679e249a8a96e0d27617f7
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Bangers
+  - Caladea
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
