@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.437184, g: 0.7544493, b: 1.0290301, a: 1}
+  m_IndirectSpecularColor: {r: 0.43718317, g: 0.75444984, b: 1.0290304, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -38618,6 +38618,7 @@ GameObject:
   - component: {fileID: 1853715288}
   - component: {fileID: 1853715287}
   - component: {fileID: 1853715286}
+  - component: {fileID: 1853715289}
   m_Layer: 4
   m_Name: Water
   m_TagString: Untagged
@@ -38645,7 +38646,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9ba500ad02746a549b96dc68b3613769, type: 2}
+  - {fileID: 2100000, guid: 4a8d728c2e8df9547bacb80db94cbb9e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -38690,6 +38691,20 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1853715289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1853715285}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f160cba62ef3d846a6a4d00e977367d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speedX: 0
+  speedY: 0.005
 --- !u!1001 &1854981329
 PrefabInstance:
   m_ObjectHideFlags: 0
