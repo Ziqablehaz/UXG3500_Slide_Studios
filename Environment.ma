@@ -1,6 +1,6 @@
 //Maya ASCII 2024 scene
 //Name: Environment.ma
-//Last modified: Thu, Mar 28, 2024 01:04:36 PM
+//Last modified: Thu, Mar 28, 2024 01:16:18 PM
 //Codeset: 1252
 requires maya "2024";
 requires "stereoCamera" "10.0";
@@ -12,19 +12,19 @@ fileInfo "product" "Maya 2024";
 fileInfo "version" "2024";
 fileInfo "cutIdentifier" "202304191415-7fa20164c6";
 fileInfo "osv" "Windows 10 Home v2009 (Build: 19045)";
-fileInfo "UUID" "636B7F92-49F5-4D69-FCCA-A19A6E8EFC2B";
+fileInfo "UUID" "CF2A4CF8-44D6-0775-CA6E-9AA2A564FDAA";
 createNode transform -s -n "persp";
 	rename -uid "0984A49B-488D-EF26-91A8-C18552DAE92C";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 9.410385851646403 57.580389688331891 93.565445791770401 ;
-	setAttr ".r" -type "double3" 150.73561031450268 162.20000000019246 -180.00000000006696 ;
+	setAttr ".t" -type "double3" 14.547895282572826 28.867974101686727 25.392157805485443 ;
+	setAttr ".r" -type "double3" 137.53561031450585 166.6000000001913 -180.00000000006449 ;
 	setAttr ".rp" -type "double3" -2.8421709430404007e-14 -2.4424906541753444e-14 -4.5474735088646412e-13 ;
 	setAttr ".rpt" -type "double3" -1.3545150216604398e-13 1.2195243519490976e-14 3.6185655131159671e-13 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "3E69A755-42F9-43D0-814E-E897353BE63B";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999979;
-	setAttr ".coi" 115.44681466663454;
+	setAttr ".coi" 47.500647372213351;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
@@ -7791,12 +7791,12 @@ createNode materialInfo -n "materialInfo13";
 	rename -uid "9BB51245-44C3-D9C8-93E2-84B6FE52A723";
 createNode lambert -n "foliage";
 	rename -uid "A8BE258E-411B-3102-D7C1-FABE9D403377";
-	setAttr ".c" -type "float3" 0.2902 0.3953 0.2902 ;
-	setAttr ".ic" -type "float3" 0.25 0.25 0.25 ;
+	setAttr ".c" -type "float3" 0.2137 0.56300002 0.2137 ;
+	setAttr ".ic" -type "float3" 0.28061223 0.28061223 0.28061223 ;
 createNode shadingEngine -n "lambert9SG";
 	rename -uid "AD12488F-4A2E-31E5-6409-A0A42056CB38";
 	setAttr ".ihi" 0;
-	setAttr -s 2 ".dsm";
+	setAttr -s 3 ".dsm";
 	setAttr ".ro" yes;
 createNode materialInfo -n "materialInfo14";
 	rename -uid "FB257C2B-4779-0DD4-8F60-DE9EC891323C";
@@ -7807,7 +7807,7 @@ createNode lambert -n "mountain";
 createNode shadingEngine -n "lambert10SG";
 	rename -uid "B3D1E7CF-4649-9E96-FC87-B6A99195F043";
 	setAttr ".ihi" 0;
-	setAttr -s 4 ".dsm";
+	setAttr -s 3 ".dsm";
 	setAttr ".ro" yes;
 createNode materialInfo -n "materialInfo15";
 	rename -uid "62450238-41BE-371F-8E55-54850090A2EA";
@@ -7896,7 +7896,7 @@ createNode shadingEngine -n "phong1SG";
 createNode materialInfo -n "materialInfo19";
 	rename -uid "B737BB1B-4EB4-641D-7765-A1B8A1ED1E92";
 createNode nodeGraphEditorInfo -n "hyperShadePrimaryNodeEditorSavedTabsInfo";
-	rename -uid "51DDB970-4405-1C8A-0B8D-66B4E212C7BE";
+	rename -uid "789C970F-4DB8-FF9E-1282-BBB02E1EBBBF";
 	setAttr ".tgi[0].tn" -type "string" "Untitled_1";
 	setAttr ".tgi[0].vl" -type "double2" -44.444442678381009 -223.36648057713759 ;
 	setAttr ".tgi[0].vh" -type "double2" 772.06784408973544 440.6562449948961 ;
